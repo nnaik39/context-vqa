@@ -1,0 +1,1092 @@
+[
+    {
+        "image_id": "15",
+        "question": "Where is the location?",
+        "context": "news",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "It's in an unknown city. ",
+            "answer3": "in a major city"
+        }
+    },
+    {
+        "image_id": "27",
+        "question": "Is he doing something related to social media?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "No, its a picture of a snowboarder looking at something in the distance.",
+            "answer2": "He's striking a pose for a social media post",
+            "answer3": "no. He is standing on a snow covered mountain and is looking off in the distance with his snowboard in hand. "
+        }
+    },
+    {
+        "image_id": "22",
+        "question": "What color are the curtains?",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "The curtains are white.",
+            "answer2": "THEY ARE white",
+            "answer3": "The curtains are white."
+        }
+    },
+    {
+        "image_id": "35",
+        "question": "What is he standing in front of?",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": " A wall with the NASA abbreviation etched into it.",
+            "answer2": "NASA headquarters",
+            "answer3": "The NASA building."
+        }
+    },
+    {
+        "image_id": "11",
+        "question": "What is it like traveling to india?",
+        "context": "travel",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "India has a very rich culture and is big.",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "3",
+        "question": "What is she doing and why is she wearing that?",
+        "context": "health",
+        "annotations": {
+            "answer1": "She is exercising to improve her health, she is wearing that outfit for better mobility and comfort while exercising. ",
+            "answer2": "She is stretching her leg and is wearing attire to help her feel at ease as she is exercising.",
+            "answer3": "She seems to be stretching, and the clothes she is wearing are comfortable while exercising. "
+        }
+    },
+    {
+        "image_id": "8",
+        "question": "is the seal population dwindling?",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "unanswerable",
+            "answer3": "I have no idea as the pic only shows one seal."
+        }
+    },
+    {
+        "image_id": "42",
+        "question": "what happened here?",
+        "context": "news",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "A secret room was discovered.",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "27",
+        "question": "Who is this person in the photo?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "a snowboarder",
+            "answer2": "It\u2019s a snowboarder holding the snowboard, wearing blue pants and a green camo top, and looking out over the snow.",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "19",
+        "question": "What does the environment around them look like?",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "Three people are fishing by a river in a forest.",
+            "answer2": "They are out fly fishing on a high tide river",
+            "answer3": "A rushing river in Alaskan wilderness."
+        }
+    },
+    {
+        "image_id": "37",
+        "question": "Where is the scuba diver",
+        "context": "travel",
+        "annotations": {
+            "answer1": "Underwater near some small fish, corals, and other sea life.",
+            "answer2": "Under the ocean.",
+            "answer3": "He is down deep at the ocean"
+        }
+    },
+    {
+        "image_id": "15",
+        "question": "Was anyone harmed with the building falling down?",
+        "context": "news",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "Its highly likely someone was injured",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "6",
+        "question": "What kinds of foods are in the bowls?",
+        "context": "health",
+        "annotations": {
+            "answer1": "Nuts and seeds",
+            "answer2": "Fruits, nuts, seeds and  grains. ",
+            "answer3": "blueberries, almonds, chia seeds, oatmeal"
+        }
+    },
+    {
+        "image_id": "27",
+        "question": "What's the weather like?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "Partly sunny and cold",
+            "answer2": "Sunny, likely cold",
+            "answer3": "The picture is of a person holding a snowboard, in full winter gear, and on a snowy hill. So it's cold, but the sky doesn't have many clouds so it's also sunny."
+        }
+    },
+    {
+        "image_id": "25",
+        "question": "How does the hotel look?",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "Modern three story building with a large outdoor patio and pool",
+            "answer2": "It looks nice -- this seems to be the courtyard containing a pool. It seems to be well maintained and clean, and it's a beautiful clear day with plenty of light. ",
+            "answer3": "looks nice and relaxing"
+        }
+    },
+    {
+        "image_id": "16",
+        "question": "What should I wear when swimming",
+        "context": "health",
+        "annotations": {
+            "answer1": "they are wearing a diving suit",
+            "answer2": "A wet suit.",
+            "answer3": "You could wear what people are wearing in a recent photo i saw.  They were wearing full body wet suits.  Probably not the most practical but its something"
+        }
+    },
+    {
+        "image_id": "33",
+        "question": "how many women are there?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "Somewhere between four and thirty-five.",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "3",
+        "question": "What's the website name",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "Lululemo.com",
+            "answer2": "unanswerable",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "11",
+        "question": "Is the woman performing on a stage?",
+        "context": "travel",
+        "annotations": {
+            "answer1": "yes the woman is performing on a stage",
+            "answer2": "yes , she is ",
+            "answer3": "Yes it looks like she is"
+        }
+    },
+    {
+        "image_id": "35",
+        "question": "I would like to know why it was placed there?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "it shows the person has an interest in space",
+            "answer2": "This was placed there to promote an individual who is proud of their work.",
+            "answer3": "for people to take an interest in nasa"
+        }
+    },
+    {
+        "image_id": "21",
+        "question": "Where is the street sign located? ",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "the left bottom corner of the picture",
+            "answer2": "On the corner of the The Outsiders and Curtis Brothers lane",
+            "answer3": "The street sign is located in front of the white house at the corner of two roads."
+        }
+    },
+    {
+        "image_id": "6",
+        "question": "Does the image have to do with a recipe?",
+        "context": "health",
+        "annotations": {
+            "answer1": "It is unlikely, as some of the ingredients don't make sense together",
+            "answer2": "There are ingredients which can be used in a recipe.",
+            "answer3": "It has no measurements showing and they don't look like they wold mix well, so no"
+        }
+    },
+    {
+        "image_id": "11",
+        "question": "Is this product authentic?",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "unanswerable",
+            "answer3": "Yes i believe is very authentic"
+        }
+    },
+    {
+        "image_id": "40",
+        "question": "How many lbs or kg can the suitcase weigh?",
+        "context": "travel",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "I do not know but it appears to be medium sized",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "21",
+        "question": "How informative and reliable?",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "Not very informative at all",
+            "answer2": "Not at all.",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "26",
+        "question": "What kind of vase is it?",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "There are vases in various sizes that are patterned with faces.  Kind of like a nesting doll vase.",
+            "answer2": "it is decorated to resemble a stout man with a mustache, and the opening of a vase is shaped and colored to resemble a top hat.",
+            "answer3": "Vase with a face on it"
+        }
+    },
+    {
+        "image_id": "39",
+        "question": "Where is the mountain located?",
+        "context": "travel",
+        "annotations": {
+            "answer1": "No idea - behind the skiier?",
+            "answer2": "It is in the middle rear of the picture.",
+            "answer3": "It is located somewhere that gets a lot of snow and people go to ski."
+        }
+    },
+    {
+        "image_id": "5",
+        "question": "How old is this woman? ",
+        "context": "health",
+        "annotations": {
+            "answer1": "This woman is probably in her early 20s",
+            "answer2": "unanswerable",
+            "answer3": "This woman that is surfing looks to be around 32."
+        }
+    },
+    {
+        "image_id": "23",
+        "question": "Is this man standing in a field?",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "Yes, by a lake.",
+            "answer2": "Perhaps. The man is standing near a body of water and bushes.",
+            "answer3": "the man is standing in a field with some kind of lake or river in the background\nthe man is standing in a field with some kind of lake or river in the background"
+        }
+    },
+    {
+        "image_id": "16",
+        "question": "I would like to know why the man and woman are there.",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "They are showing off their new swim suits in order to show that science was heavily used in designing them.",
+            "answer2": "They are free diving in the ocean.",
+            "answer3": "they are mentioned in the article about the ocean"
+        }
+    },
+    {
+        "image_id": "29",
+        "question": "Where are they at?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "He is standing against a brown wooden wall.",
+            "answer2": "To me it looks like they are in an urban setting based off the background and their outfit.  I'd say a pretty cold climate too since they are wearing hoodie and jacket but can't be sure of the exact location. ",
+            "answer3": "They are outside against a wall."
+        }
+    },
+    {
+        "image_id": "25",
+        "question": "Is this a type of trip, and if so, what is it?",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "A trip to a hotel pool",
+            "answer2": "You might stay here if you are going on a trip.",
+            "answer3": "Its a trip that invovles staying at a hotel with a pool"
+        }
+    },
+    {
+        "image_id": "15",
+        "question": "Was anyone injured in the incident",
+        "context": "news",
+        "annotations": {
+            "answer1": "Most likely",
+            "answer2": "People were definitely injured.",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "24",
+        "question": "Why is he there?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "He is enjoying the view",
+            "answer2": "He is Scottish and this is his home he is taking a selfie",
+            "answer3": "He is visiting the homeland of those who cam before him."
+        }
+    },
+    {
+        "image_id": "17",
+        "question": "Are the plants around the concert hall?",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "The plants are everywhere",
+            "answer2": "the room is full of plants, it's a concert just for them\nthe room is full of plants, it's a concert just for them\nthe room is full of plants, it's a concert just for them",
+            "answer3": "yes, they are in the audience seats/ "
+        }
+    },
+    {
+        "image_id": "23",
+        "question": "Is this same sweater available for purchase?",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "yes it is available",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "37",
+        "question": "What is the context of the article?",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "A diver examines vibrant, live coral underwater. This illustrates the importance of coral and biodiversity.",
+            "answer3": "The article is trying to inform all of us how important is to  preserve the marine life and how corals play a huge role in the ecosystem. "
+        }
+    },
+    {
+        "image_id": "9",
+        "question": "What is his speech about?",
+        "context": "news",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "It could be about opposition to trans policies in schools.",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "27",
+        "question": "how long this company has been in business",
+        "context": "travel",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "unanswerable",
+            "answer3": "Cannot tell to be honest!"
+        }
+    },
+    {
+        "image_id": "21",
+        "question": "Is it night or day time?",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "It is day time.",
+            "answer2": "Its daytime.",
+            "answer3": "It's day time."
+        }
+    },
+    {
+        "image_id": "35",
+        "question": "What does the man look like?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "a person who works at nasa",
+            "answer2": "The man is brown-skined, possibly of African, Afro-caribbean or African-American descent. He is wearing a black polo shirt with two official-looking patches on the left breast.",
+            "answer3": "He has darker skin, has glasses and a moustache, and has short, greying hair, and seems to be muscular"
+        }
+    },
+    {
+        "image_id": "2",
+        "question": "What kind of mountain is she running on?",
+        "context": "travel",
+        "annotations": {
+            "answer1": "a very rocky one",
+            "answer2": "unanswerable",
+            "answer3": "A rocky mountian"
+        }
+    },
+    {
+        "image_id": "15",
+        "question": "Are there people around?",
+        "context": "health",
+        "annotations": {
+            "answer1": "yes quite a few",
+            "answer2": "The photo shows a lot of people standing in what looks to be maybe a mound formed by a collapsed building. The area looks to be full of rubble.",
+            "answer3": "Yes there are people around the rubble of a collapsed building"
+        }
+    },
+    {
+        "image_id": "13",
+        "question": "What are her emotions? ",
+        "context": "news",
+        "annotations": {
+            "answer1": "She looks content",
+            "answer2": "She looks a little sentimental, like she's remembering something from the past, or something that the beach reminds her of.",
+            "answer3": "She is contemplative."
+        }
+    },
+    {
+        "image_id": "40",
+        "question": "Is it a busy street?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "it is not a busy street",
+            "answer2": "Not really. There are a few people walking behind the woman, but it looks quaint, and there is plenty of space for everyone. No cars in sight.",
+            "answer3": "This appears not to be a street but an indoor marketplace, which does not seem to be that busy."
+        }
+    },
+    {
+        "image_id": "41",
+        "question": "The name of the restaurant or person who prepared it. ",
+        "context": "travel",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "An old lady from a small local restaurant. ",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "6",
+        "question": "Do they follow a particular diet?",
+        "context": "health",
+        "annotations": {
+            "answer1": "yes: vegetarian or vegan",
+            "answer2": "Their appears to be no animal products. ",
+            "answer3": "They follow a healthy lifestyle and diet."
+        }
+    },
+    {
+        "image_id": "2",
+        "question": "How cold is it, where they are running?",
+        "context": "health",
+        "annotations": {
+            "answer1": "He is on a mountain with snow visible in the distant background, It is not warm but it also is not terribly cold.",
+            "answer2": "I would say its cold. There are snow capped mountains in the not-too-distant background around a lake where they're running. ",
+            "answer3": "I think it's pretty cold? There is no snow on the ground right by them, but snow is in the mountains which are not too distant."
+        }
+    },
+    {
+        "image_id": "29",
+        "question": "is he alone?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "Yes, they are alone leaning against a wall",
+            "answer2": "in the image yes, but someone else is taking the picture so no in general",
+            "answer3": "He is alone"
+        }
+    },
+    {
+        "image_id": "2",
+        "question": "Where is the woman running",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "The person is running towards the camera",
+            "answer2": "to the top of the a mountain",
+            "answer3": "She is running up the side of a tall mountain"
+        }
+    },
+    {
+        "image_id": "24",
+        "question": "What is the man wearing? ",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "A green sweater over a blue shirt, with a pair of khaki pants",
+            "answer2": "The man is wearing a green sweater with khaki pants.  ",
+            "answer3": "the man is wearing a green sweater and khaki slacks."
+        }
+    },
+    {
+        "image_id": "7",
+        "question": "The strength of the bands?",
+        "context": "health",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "The bands must be strong because they have to withstand the pulling of the athletes. ",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "37",
+        "question": "What would a vacation that involves scuba diving look like?\n",
+        "context": "travel",
+        "annotations": {
+            "answer1": "Swimming underwater, seeing fish and coral",
+            "answer2": "vibrant pictures underwater of things like coral reefs",
+            "answer3": "Another user who can't see the image has the following question. Please answer based on the image. Your answer should allow the user to better understand and imagine the image.\nAnother user who can't see the image has the following question. Please answer based on the image. Your answer should allow the user to better understand and imagine the image."
+        }
+    },
+    {
+        "image_id": "18",
+        "question": "Is the boat a commercial fisherman or a boat out for pleasure?",
+        "context": "news",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "Because of the cage (maybe a trap) being lifted out of the water, I believe this boat is that of a commercial fisherman.",
+            "answer3": "Neither. It is a working boat bringing a cask of apparently wine to the surface."
+        }
+    },
+    {
+        "image_id": "18",
+        "question": "How large is the boat?",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "It's a fairly small boat, but larger than a fishing boat or kayak.",
+            "answer2": "It\u2019s a fishing boat, but not that large, it has a small cabin at the front. I would say room for maybe 4/5 people to work on it. ",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "33",
+        "question": "How successful is the team?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "The team looks rather successful, they all have medals.",
+            "answer2": "Pretty successful, They look like they won something.",
+            "answer3": "I suppose they are fairly successful because they look happy"
+        }
+    },
+    {
+        "image_id": "13",
+        "question": "What happened in the beach?",
+        "context": "news",
+        "annotations": {
+            "answer1": "The woman doesn't look sad, but there's no other clues as to what happened. ",
+            "answer2": "unanswerable",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "19",
+        "question": "How big is the river?",
+        "context": "travel",
+        "annotations": {
+            "answer1": "It's a pretty wide river, it would probably be difficult to swim across. ",
+            "answer2": "It looks like a medium sized one. There is some whitewater.",
+            "answer3": "It's bigger than a stream or creek but not as large as larger rivers like the Mississippi or amazon. "
+        }
+    },
+    {
+        "image_id": "20",
+        "question": "what age of men are they?",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "early 20's",
+            "answer2": "teenager to young adult",
+            "answer3": "The men are young. They seem to be in their late teens to early 20s."
+        }
+    },
+    {
+        "image_id": "27",
+        "question": "Who is the person in the picture? ",
+        "context": "travel",
+        "annotations": {
+            "answer1": "Not sure if famous, but a young person enjoying snowboarding. ",
+            "answer2": "It's a woman in snowboarding gear. She might be a tourist, or the author of the article? I don't think she's anyone important.",
+            "answer3": "it is a snowboarder."
+        }
+    },
+    {
+        "image_id": "29",
+        "question": "is it sunny",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "There is a person leaning up against a wall. He's wearing cream colored casual pants with a grey hoody sweatshirt and a jacket. He has some kind of messenger bag that he's wearing across his chest. ",
+            "answer2": "It is a bit sunny. There are long shadows behind the person in the picture.",
+            "answer3": "Yes I think so because clearly there are shadows in the picture."
+        }
+    },
+    {
+        "image_id": "2",
+        "question": "Are there waterfalls in the mountains?",
+        "context": "travel",
+        "annotations": {
+            "answer1": "There is a person running up a rocky hill. In the background there is a small lake that is surrounded by snowcapped mountains.  The man appears to be running up a rather steep incline. ",
+            "answer2": "I don\u2019t see waterfalls, but there is a very large lake in the mountains.",
+            "answer3": "No waterfalls but there is a beautiful lake."
+        }
+    },
+    {
+        "image_id": "3",
+        "question": "What is the person doing that promotes a healthier lifestyle?",
+        "context": "health",
+        "annotations": {
+            "answer1": "Exercising/Stretching",
+            "answer2": "The women in the picture is stretching her legs before working out.",
+            "answer3": "The person is getting ready to exercise"
+        }
+    },
+    {
+        "image_id": "28",
+        "question": "What type of neck style is on the t-shirt",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "Crew neck shirt",
+            "answer2": "Crew style or regular. I just call it regular if it isn't a V neck or turtle neck.",
+            "answer3": "CRewneck style"
+        }
+    },
+    {
+        "image_id": "42",
+        "question": "Is the alley clean?",
+        "context": "news",
+        "annotations": {
+            "answer1": "No it is not but some call it art",
+            "answer2": "no its cluttered and has lots of old books",
+            "answer3": "The alley is crowded with a lot of different items."
+        }
+    },
+    {
+        "image_id": "8",
+        "question": "What type of seal is shown?",
+        "context": "news",
+        "annotations": {
+            "answer1": "I don't know what kind of seal it is. It is a seal though.",
+            "answer2": "unanswerable",
+            "answer3": "Imagine that you are browsing a news website (such as the New York Times), with the goal of learning more about recent news developments, when you encounter the following image.\nImagine that you are browsing a news website (such as the New York Times), with the goal of learning more about recent news developments, when you encounter the following image."
+        }
+    },
+    {
+        "image_id": "16",
+        "question": "where are they?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "They are in the ocean for a photoshoot",
+            "answer2": "They are at the ocean.",
+            "answer3": "It appears they may be in the sea or a lake"
+        }
+    },
+    {
+        "image_id": "5",
+        "question": "Does she look like she is having fun?",
+        "context": "health",
+        "annotations": {
+            "answer1": "Yea she's out having the time of her life.",
+            "answer2": "She is most definitely having fun ",
+            "answer3": "Yes, it looks like she is having fun."
+        }
+    },
+    {
+        "image_id": "40",
+        "question": "Where is she going?",
+        "context": "travel",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "It looks like she's in Europe and may be going to a hotel.",
+            "answer3": "A women in a white dress is walking a street with a  hand luggage with wheels."
+        }
+    },
+    {
+        "image_id": "29",
+        "question": "What kind of clothing",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "street wear",
+            "answer2": "It appears to be men's clothing in form of pants and tops.",
+            "answer3": "laid back cool clothes"
+        }
+    },
+    {
+        "image_id": "16",
+        "question": "why they picture was made?",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "they are posing for a online science photo",
+            "answer2": "They are likely a part of the scientific development. ",
+            "answer3": "They look proud of themselves, so I am guessing that the picture is of them to recognize them for making a scientific find together."
+        }
+    },
+    {
+        "image_id": "24",
+        "question": "What's the man near?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "sitting on a rock posing by the lake",
+            "answer2": "the man is near a water stream",
+            "answer3": "He is near a small lake."
+        }
+    },
+    {
+        "image_id": "18",
+        "question": "Where is the boat?",
+        "context": "travel",
+        "annotations": {
+            "answer1": "the boat is in the ocean",
+            "answer2": "Based on the underwaterwine.com livery, this is a boat used by a winery (Crusoe Treasure) which uniquely ages its product underwater; this would be just off the coast of Plentzia in Spain.",
+            "answer3": "the boat is in the ocean"
+        }
+    },
+    {
+        "image_id": "40",
+        "question": "Where is this street?",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "it does not look like a street but it looks like a shopping district",
+            "answer2": "unanswerable",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "1",
+        "question": "is the woman alright?",
+        "context": "health",
+        "annotations": {
+            "answer1": "I think she may be diabetic, but she looks well, the nurse looks to be checking her blood sugar level. ",
+            "answer2": "He is checking to make sure she is fine.",
+            "answer3": "She is recieving assistance from someone with her meds so that she can stay at optimal health."
+        }
+    },
+    {
+        "image_id": "13",
+        "question": "What is she wearing? ",
+        "context": "news",
+        "annotations": {
+            "answer1": "She\u2019s wearing a black jacket, and a black and white patterend dress.",
+            "answer2": "a black and white dress with a black overcoat over it.",
+            "answer3": "She is wearing make up and watch"
+        }
+    },
+    {
+        "image_id": "26",
+        "question": "What does the vases look like?",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "The vases look like men with hats",
+            "answer2": "They are painted to resemble a decorated king. ",
+            "answer3": "the vases look like people"
+        }
+    },
+    {
+        "image_id": "17",
+        "question": "Does this happen with all plants?",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "No, most plants aren't treated to live music.",
+            "answer3": "not sure what you mean"
+        }
+    },
+    {
+        "image_id": "27",
+        "question": "What does the site sell that relates to what the photo shows (is it an outdoor retailer, a travel agent etc.)?",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "It is outdoor snow wear by a retailer specializing in outdoor wear.",
+            "answer2": "It's an outdoor retailer that sells equipment for skiing and snowboarding. ",
+            "answer3": "Outdoor retailer, most likely. Probably either the snowboard, the apparel, the goggles, or any combination of the above."
+        }
+    },
+    {
+        "image_id": "25",
+        "question": "Are there any people in this picture?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "There are no people in the picture.",
+            "answer2": "i dont see any people in the photo.",
+            "answer3": "there are no people in this picture."
+        }
+    },
+    {
+        "image_id": "11",
+        "question": "What is she doing?",
+        "context": "news",
+        "annotations": {
+            "answer1": "A ceremonial Indian dance is being performed befo0re an American audience.",
+            "answer2": "A india women dress up in cultural clothes is making a pose.",
+            "answer3": "The performer is dancing in their traditional culture and attire."
+        }
+    },
+    {
+        "image_id": "17",
+        "question": "Are there any people? ",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "Yes, there are 4 persons performaing music for plants.",
+            "answer2": "There are three musicians on stage. ",
+            "answer3": "Yes there are people, four of them"
+        }
+    },
+    {
+        "image_id": "39",
+        "question": "What is the weather like in the photo?",
+        "context": "travel",
+        "annotations": {
+            "answer1": "It is sunny but snowy",
+            "answer2": "sunny, snowy, and cold",
+            "answer3": "The weather is snowy"
+        }
+    },
+    {
+        "image_id": "8",
+        "question": "Is the seal dead or alive?",
+        "context": "news",
+        "annotations": {
+            "answer1": "The seal is alive.",
+            "answer2": "The seal is alive.",
+            "answer3": "The seal is alive"
+        }
+    },
+    {
+        "image_id": "24",
+        "question": "What is the man doing?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "He is relaxing by the river on an Autumn day.",
+            "answer2": "The man is enjoying the beautiful scenery and having a quiet relaxing time. ",
+            "answer3": "The man is sitting on a rock next to a river."
+        }
+    },
+    {
+        "image_id": "23",
+        "question": "what size does it come in?",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "It comes in all sizes from S to XXL but take notice that it is on the smaller sizing. ",
+            "answer2": "unanswerable",
+            "answer3": "Small medium large and extra large"
+        }
+    },
+    {
+        "image_id": "13",
+        "question": "Is this person a part of the story",
+        "context": "news",
+        "annotations": {
+            "answer1": "Yes. The person in the image is the one telling the story. ",
+            "answer2": "This person is part of the story for sure.  It would seem to random otherwise.",
+            "answer3": "ITs a women in her sixties at a beach"
+        }
+    },
+    {
+        "image_id": "19",
+        "question": "Is there a connection between recreational fishing and environmental decay?",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "I think not",
+            "answer2": "Too many people fishing in one area can deplete supplies",
+            "answer3": "Over fishing can lead to environmental decay"
+        }
+    },
+    {
+        "image_id": "2",
+        "question": "what is a healthy food for a consistent runner?",
+        "context": "health",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "unanswerable",
+            "answer3": "Protein such as eggs or lean meat"
+        }
+    },
+    {
+        "image_id": "9",
+        "question": "What does the man look like?",
+        "context": "news",
+        "annotations": {
+            "answer1": "he appears to be multiracial, somewhat young and a man.",
+            "answer2": "mad , tired of it",
+            "answer3": "the man look like he is trying to prove a point on a topice he feels strongly about, and has his hand extended pointing in the air. "
+        }
+    },
+    {
+        "image_id": "41",
+        "question": "Is it good?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "yes it is good",
+            "answer2": "unanswerable",
+            "answer3": "It looks to be good and hearty because it is like a chunky soup with various ingredients in it."
+        }
+    },
+    {
+        "image_id": "11",
+        "question": "what kind of dance is the woman doing?",
+        "context": "travel",
+        "annotations": {
+            "answer1": "an indian traditional dance",
+            "answer2": "The woman is performing an ethic dance of her people.",
+            "answer3": "Bharatnatya, or Classical Indian dance"
+        }
+    },
+    {
+        "image_id": "25",
+        "question": "How much seating is around the pool?",
+        "context": "travel",
+        "annotations": {
+            "answer1": "There is somewhere around 10 to 20 seats near the pool.",
+            "answer2": "There is plenty of seating available.",
+            "answer3": "There is quite a bit of seating for around 20 people or more."
+        }
+    },
+    {
+        "image_id": "1",
+        "question": "Is the doctor in the photo related to the website?",
+        "context": "health",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "In all likelihood this is just a stock photo, not one specific to the website itself. ",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "21",
+        "question": "Is it a city street or a neighborhood street?",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "It appears to be a neighborhood street. ",
+            "answer2": "It is a typical, neighborhood  suburban street.",
+            "answer3": "Neighborhood street"
+        }
+    },
+    {
+        "image_id": "39",
+        "question": "why does skiing help?",
+        "context": "health",
+        "annotations": {
+            "answer1": "It makes you use a lot of muscles and it terrific for cardio. ",
+            "answer2": "it is cold out and you warm up from all the excitement.",
+            "answer3": "It's a physical activity."
+        }
+    },
+    {
+        "image_id": "12",
+        "question": "Did these people obtain consent?",
+        "context": "news",
+        "annotations": {
+            "answer1": "unanswerable",
+            "answer2": "unanswerable",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "29",
+        "question": "What color are the pants?",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "The color of the pants appear to be cream",
+            "answer2": "unanswerable",
+            "answer3": "The pants are a light tan color."
+        }
+    },
+    {
+        "image_id": "6",
+        "question": "Are they all the same kinds of foods?",
+        "context": "health",
+        "annotations": {
+            "answer1": "No, they are not all the same.",
+            "answer2": "There are a variety of fruits and grains included",
+            "answer3": "No, there are fruits and vegetables and nuts and grains"
+        }
+    },
+    {
+        "image_id": "12",
+        "question": "What are they doing?",
+        "context": "news",
+        "annotations": {
+            "answer1": "It is a group of people sitting around a table, perhaps eating.",
+            "answer2": "unanswerable",
+            "answer3": "They are having a party"
+        }
+    },
+    {
+        "image_id": "37",
+        "question": "Is there any fish or animals in the photograph?",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "There are lots of little orange fish.",
+            "answer2": "Yes. There are small fish with orange-golden scales floating between the diver and the coral.",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "27",
+        "question": "Is the view from the hill nice?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "It appears there is a nice view. ",
+            "answer2": "unanswerable",
+            "answer3": "It is nice as the person is looking downward from the top and smiling"
+        }
+    },
+    {
+        "image_id": "10",
+        "question": "who are the players",
+        "context": "news",
+        "annotations": {
+            "answer1": "I do not know but they are women soccer players",
+            "answer2": "the players are two women on opposing teams chasing a soccer ball.",
+            "answer3": "a man and a woman, names unknown "
+        }
+    },
+    {
+        "image_id": "24",
+        "question": "Is the man relaxing or is he engaging in an activity?",
+        "context": "shopping",
+        "annotations": {
+            "answer1": "He is relaxing outdoors in his nice clothes. ",
+            "answer2": "The man is sitting on a rock looking into the distance",
+            "answer3": "The man is relaxing by a river/stream."
+        }
+    },
+    {
+        "image_id": "33",
+        "question": "Were they in a plane crash?",
+        "context": "news",
+        "annotations": {
+            "answer1": "No. They have awards in their hands.",
+            "answer2": "unanswerable",
+            "answer3": "No they just won something."
+        }
+    },
+    {
+        "image_id": "12",
+        "question": "Where are the people positioned?",
+        "context": "news",
+        "annotations": {
+            "answer1": "It looks like the people are sitting at a table in a restaurant",
+            "answer2": "They appear to be sitting down around a table.",
+            "answer3": "outdoors near a gray brick wall."
+        }
+    },
+    {
+        "image_id": "25",
+        "question": "Is there a lot of room for people and kids?",
+        "context": "social_media",
+        "annotations": {
+            "answer1": "yes  , plenty of room for kids and people no doubt",
+            "answer2": "Yes there is a lot.",
+            "answer3": "Its a hotel that has lots of rooms and recreational areas"
+        }
+    },
+    {
+        "image_id": "20",
+        "question": "Why are these men standing at the wall?",
+        "context": "science_journals",
+        "annotations": {
+            "answer1": "Seven men are standing together in front of a manila colored wall enjoying their companionship with one another.",
+            "answer2": "to take a photo together",
+            "answer3": "unanswerable"
+        }
+    },
+    {
+        "image_id": "40",
+        "question": "What does the woman look like?",
+        "context": "travel",
+        "annotations": {
+            "answer1": "She is black with long blonde hair that is braided.",
+            "answer2": "she is African American with long white dreads",
+            "answer3": "A black woman of about medium dress, with blonde braids."
+        }
+    }
+]
