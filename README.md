@@ -10,9 +10,7 @@ To replicate our analyses in the paper, please navigate to scripts/ for more inf
 
 ## Examples
 
-## Coming Soon
-
-## Citing Context-VQA
+## Citation
 
 If you use the Context-VQA dataset, you can cite our work as follows.
 
