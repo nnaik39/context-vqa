@@ -1,10 +1,14 @@
 # Context-VQA: Towards Context-Aware and Purposeful Visual Question Answering
 
-This repository includes the code and dataset for the paper, ["Context-VQA: Towards Context-Aware and Purposeful Visual Question Answering"](https://arxiv.org/abs/2307.15745).
+This repository includes the code and dataset for the paper [Context-VQA: Towards Context-Aware and Purposeful Visual Question Answering](https://arxiv.org/abs/2307.15745).
 
-To download the initial version of our dataset, please navigate to 
+To download the initial version of our dataset, please navigate to ContextVQA_dataset/
 
-To access the code necessary to replicate our figure showing the distribution of question types, please run: python3 bar_plot.py.
+To access the code necessary to replicate our figure showing the distribution of question types, run: python3 bar_plot.py.
+
+## Examples
+
+## Dataset Format
 
 The data is stored in this format:
 k
