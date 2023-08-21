@@ -1,6 +1,6 @@
 # Context-VQA: Towards Context-Aware and Purposeful Visual Question Answering
 
-This repository includes the code and dataset for the paper, "Context-VQA: Towards Context-Aware and Purposeful Visual Question Answering." 
+This repository includes the code and dataset for the paper, ["Context-VQA: Towards Context-Aware and Purposeful Visual Question Answering"](https://arxiv.org/abs/2307.15745).
 
 To download the initial version of our dataset, please navigate to 
 
