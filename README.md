@@ -2,32 +2,13 @@
 
 This repository includes the code and dataset for the paper [Context-VQA: Towards Context-Aware and Purposeful Visual Question Answering](https://arxiv.org/abs/2307.15745).
 
-To download the initial version of our dataset, please navigate to ContextVQA_dataset/
+To download the initial version of our dataset, please navigate to ContextVQA_dataset/ for more information.
 
-To access the code necessary to replicate our figure showing the distribution of question types, run: python3 bar_plot.py.
+To replicate our analyses in the paper, please navigate to scripts/ for more information.
 
 ![Text at the top of the image reads, "What do you need to know?" The rest of the image is split into two columns, each with the same picture of a woman with braids pulling a suitcase along a cobblestone road. The left column is labeled "Social Media," and underneath the picture of the woman, the text reads: "Question: Are there other people with her? Answer: There are other people in the background far behind her, but she's walking alone." The right column is labeled "Shopping," and underneath the picture of the woman, the text reads: "Question: What type of suitcase is it? Answer: I do not know but it appears to be medium sized"](img/qualitative_example_1.png)
 
 ## Examples
-
-## Dataset Format
-
-The data is stored in this format:
-```
-    "images": [
-        {
-            "filename": "images/35.jpg",
-            "question": "What's the weather like?",
-            "context": "social_media",
-            "annotations": [
-                {
-                    "answer1": "Partly sunny and cold",
-                    "answer2": "Sunny, likely cold",
-                    "answer3": "The picture is of a person holding a snowboard, in full winter gear, and on a snowy hill. So it's cold, but the sky doesn't have many clouds so it's also sunny."
-                }
-            ]
-        }]
-```
 
 ## Coming Soon
 
