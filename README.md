@@ -6,6 +6,8 @@ To download the initial version of our dataset, please navigate to ContextVQA_da
 
 To access the code necessary to replicate our figure showing the distribution of question types, run: python3 bar_plot.py.
 
+![This image shows ](img/qualitative_example_1.png)
+
 ## Examples
 
 ## Dataset Format
