@@ -21,3 +21,7 @@ If you use the Context-VQA dataset, you can cite our work as follows.
     year = {2023},
     title = {{Context-VQA}: Towards Context-Aware and Purposeful {Visual} {Question} {Answering}}}
 ```
+
+## Contact
+
+For any questions, please contact nanditan@cs.stanford.edu. We welcome any feedback and will do our best to incorporate it.
