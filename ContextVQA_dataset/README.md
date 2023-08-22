@@ -1,4 +1,4 @@
-## Instructions for Downloading the Context-VQA Dataset
+## Instructions for Downloading Context-VQA
 
 The images in the dataset are stored in the images.zip file. To download the questions and annotations, please download the dataset.json file.
 
