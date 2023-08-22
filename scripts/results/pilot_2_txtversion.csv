@@ -1,0 +1,547 @@
+,image,image_cat_score,participant,category,description,question,context_justification,reactionTime
+0,images/travel/7.png,58.5,#NAME?,news,a woman taking a picture of a narrow alley,Why is the lady taking a picture?,something related to the alley is important,6.556683333
+1,images/travel/7.png,58.5,#NAME?,news,a woman taking a picture of a narrow alley,What is important about the alley?,something related to the alley is important,6.556683333
+2,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,What is the woman doing?,because she is showing readiness to exercise,6.556683333
+3,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,What is the woman demonstrating?,because she is showing readiness to exercise,6.556683333
+4,images/travel/5.png,56.5,#NAME?,shopping,a woman walking down a street with her suitcase,Where is this street?,demonstration that a working woman can shop,6.556683333
+5,images/travel/5.png,56.5,#NAME?,shopping,a woman walking down a street with her suitcase,What shopping is available here?,demonstration that a working woman can shop,6.556683333
+6,images/science_journals/2.png,41.83333333,#NAME?,science_journals,a man and woman in wetsuits,What are they looking for?,underwater diving must be applicable,6.556683333
+7,images/science_journals/2.png,41.83333333,#NAME?,science_journals,a man and woman in wetsuits,Where are they?,underwater diving must be applicable,6.556683333
+8,images/social_media/5.png,54.125,#NAME?,social_media,the women's soccer team,How many people are on the team?,The person posting it is a member of the team or is related to a member.,7.413483333
+9,images/social_media/5.png,54.125,#NAME?,social_media,the women's soccer team,How successful is the team?,The person posting it is a member of the team or is related to a member.,7.413483333
+10,images/health/5.png,39,#NAME?,health,a woman kiteboarding in the ocean,Was she unable to kiteboard before this?,To show that the person is an example of a healthy person or a successful outcome of their program.,7.413483333
+11,images/health/5.png,39,#NAME?,health,a woman kiteboarding in the ocean,How did she improve herself to be able to kiteboard?,To show that the person is an example of a healthy person or a successful outcome of their program.,7.413483333
+12,images/shopping/5.png,30.33333333,#NAME?,shopping,a group of vases,What level of quality are these vases?,Showing the selection of items that they have available.,7.413483333
+13,images/shopping/5.png,30.33333333,#NAME?,shopping,a group of vases,How much do they cost?,Showing the selection of items that they have available.,7.413483333
+14,images/travel/2.png,86.75,#NAME?,travel,a scuba diver in the ocean,Where is the person diving?,Showing a location to which they offer travel.,7.413483333
+15,images/travel/2.png,86.75,#NAME?,travel,a scuba diver in the ocean,What other activities are they doing on vacation?,Showing a location to which they offer travel.,7.413483333
+16,images/social_media/7.png,68.25,#NAME?,news,a man in a black shirt standing in front of,Who is this person?,The person was involved in a newsworthy story.,7.413483333
+17,images/social_media/7.png,68.25,#NAME?,news,a man in a black shirt standing in front of,What were they involved in?,The person was involved in a newsworthy story.,7.413483333
+18,images/science_journals/6.png,9.666666667,#NAME?,science_journals,a group of men standing in front of a wall,Who are these people?,They were involved in a study or experiment.,7.413483333
+19,images/science_journals/6.png,9.666666667,#NAME?,science_journals,a group of men standing in front of a wall,What have they accomplished?,They were involved in a study or experiment.,7.413483333
+20,images/science_journals/7.png,3.5,#NAME?,science_journals,a street sign that says the olde street,Where is the street sign located? ,This image would appear because it would show geography. ,7.670633333
+21,images/science_journals/7.png,3.5,#NAME?,science_journals,a street sign that says the olde street,What is the significance of the street sign in the photo? ,This image would appear because it would show geography. ,7.670633333
+22,images/science_journals/1.png,51.5,#NAME?,health,a building that has been destroyed,What does a destroyed building have to do with health? ,"A destroyed building is synonymous with a destroyed body from bad health, I think?",7.670633333
+23,images/science_journals/1.png,51.5,#NAME?,health,a building that has been destroyed,Why would this picture be placed with this article? ,"A destroyed building is synonymous with a destroyed body from bad health, I think?",7.670633333
+24,images/travel/4.png,62,#NAME?,social_media,a skier on a mountain,Is this an ad for a very specific skiing community? ,Skiing can be a very social activity. ,7.670633333
+25,images/travel/4.png,62,#NAME?,social_media,a skier on a mountain,Is skiing a good way to connect with people? ,Skiing can be a very social activity. ,7.670633333
+26,images/shopping/4.png,43.75,#NAME?,shopping,the pool at the holiday inn in san diego,Is this an ad for bathing suits? ,The ad wants people to purchase a stay at the holiday inn. ,7.670633333
+27,images/shopping/4.png,43.75,#NAME?,shopping,the pool at the holiday inn in san diego,What does the holiday inn want to sell me? ,The ad wants people to purchase a stay at the holiday inn. ,7.670633333
+28,images/health/2.png,90.75,#NAME?,travel,a woman running on a mountain,Where is this mountain the woman is hiking to? ,People love to travel to places to hike. ,7.670633333
+29,images/health/2.png,90.75,#NAME?,travel,a woman running on a mountain,How much would this trip be? ,People love to travel to places to hike. ,7.670633333
+30,images/science_journals/4.png,51.66666667,#NAME?,news,a boat with a crab in it,What kind of crab are they catching? ,New Orleans does have good seafood. ,7.670633333
+31,images/science_journals/4.png,51.66666667,#NAME?,news,a boat with a crab in it,Where are some good places to go eat crab in New Orleans?,New Orleans does have good seafood. ,7.670633333
+32,images/shopping/2.png,43,#NAME?,shopping,a man wearing a sweater,What is for sale?,This man would be wearing a sweater that is for sale,4.5805
+33,images/shopping/2.png,43,#NAME?,shopping,a man wearing a sweater,What is the man doing?,This man would be wearing a sweater that is for sale,4.5805
+34,images/health/2.png,90.75,#NAME?,travel,a woman running on a mountain,Where is the mountain at?,The mountain is the travel destination,4.5805
+35,images/health/2.png,90.75,#NAME?,travel,a woman running on a mountain,What kind of travel experiences are there for me?,The mountain is the travel destination,4.5805
+36,images/news_journals/8.png,84.5,#NAME?,news,a man giving a speech,Who is the man?,The man giving the speech is someone important and it is news worthy,4.5805
+37,images/news_journals/8.png,84.5,#NAME?,news,a man giving a speech,What is his speech about?,The man giving the speech is someone important and it is news worthy,4.5805
+38,images/travel/4.png,62,#NAME?,social_media,a skier on a mountain,Who is the person?,This person posted a photo of themselves skiing,4.5805
+39,images/travel/4.png,62,#NAME?,social_media,a skier on a mountain,Where are they at?,This person posted a photo of themselves skiing,4.5805
+40,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,What is the person doing that promotes a healthier lifestyle?,This photo is trying to promote health and fitness,4.5805
+41,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,What is the web site for?,This photo is trying to promote health and fitness,4.5805
+42,images/news_journals/4.png,65.4,#NAME?,science_journals,a seal on the beach,Why is the seal alone?,The seal is on the beach to highlight recent science development,4.5805
+43,images/news_journals/4.png,65.4,#NAME?,science_journals,a seal on the beach,What is going on around the seal?,The seal is on the beach to highlight recent science development,4.5805
+44,images/shopping/4.png,91.25,#NAME?,travel,the pool at the holiday inn in san diego,How much are the rooms?,Because they want to show off their amenities,4.099733333
+45,images/shopping/4.png,91.25,#NAME?,travel,the pool at the holiday inn in san diego,WHat does the rest of the resort look like?,Because they want to show off their amenities,4.099733333
+46,images/shopping/7.png,65.4,#NAME?,shopping,a man wearing a white t - shirt,What is being advertised?,because the t-shirt is for sale?,4.099733333
+47,images/shopping/7.png,65.4,#NAME?,shopping,a man wearing a white t - shirt,how old is man,because the t-shirt is for sale?,4.099733333
+48,images/science_journals/1.png,48.5,#NAME?,science_journals,a building that has been destroyed,What cased the destruction?,Because it has something to do with science or a natural accident,4.099733333
+49,images/science_journals/1.png,48.5,#NAME?,science_journals,a building that has been destroyed,What does this have to do with science?,Because it has something to do with science or a natural accident,4.099733333
+50,images/social_media/5.png,62.125,#NAME?,news,the women's soccer team,Did they win something?,Because the women's soccer team did something significant or newsworthy,4.099733333
+51,images/social_media/5.png,62.125,#NAME?,news,the women's soccer team,Were they in a plane crash?,Because the women's soccer team did something significant or newsworthy,4.099733333
+52,images/science_journals/2.png,59.33333333,#NAME?,social_media,a man and woman in wetsuits,where are they,Someone is posting about their vacation,10.43306667
+53,images/science_journals/2.png,59.33333333,#NAME?,social_media,a man and woman in wetsuits,what do they look like,Someone is posting about their vacation,10.43306667
+54,images/shopping/4.png,91.25,#NAME?,travel,the pool at the holiday inn in san diego,how big is the pool,showing what the pool looks like,10.43306667
+55,images/shopping/4.png,91.25,#NAME?,travel,the pool at the holiday inn in san diego,is it indoors,showing what the pool looks like,10.43306667
+56,images/science_journals/2.png,77.83333333,#NAME?,travel,a man and woman in wetsuits,What activity are they doing?,they are promoting the water sports available,7.118466667
+57,images/science_journals/2.png,77.83333333,#NAME?,travel,a man and woman in wetsuits,Is the activity safe to participate in?,they are promoting the water sports available,7.118466667
+58,images/news_journals/15.png,52.66666667,#NAME?,shopping,a woman performing an indian dance,Is this product something a non-Indian person would be interested in?,I would assume the site is selling some sort of Indian products,7.118466667
+59,images/news_journals/15.png,52.66666667,#NAME?,shopping,a woman performing an indian dance,Is this product authentic?,I would assume the site is selling some sort of Indian products,7.118466667
+60,images/travel/5.png,53.16666667,#NAME?,social_media,a woman walking down a street with her suitcase,Who is the target audience?,Perhaps this social media site caters to people that have recently moved,7.118466667
+61,images/travel/5.png,53.16666667,#NAME?,social_media,a woman walking down a street with her suitcase,Why is the woman carrying a suitcase?,Perhaps this social media site caters to people that have recently moved,7.118466667
+62,images/science_journals/6.png,9.666666667,#NAME?,science_journals,a group of men standing in front of a wall,Where is the photo taken,The men congregating exemplifies the culture of machismo that exists in the location,7.118466667
+63,images/science_journals/6.png,9.666666667,#NAME?,science_journals,a group of men standing in front of a wall,Why are the men congregating? For social reasons? Are they plotting something?,The men congregating exemplifies the culture of machismo that exists in the location,7.118466667
+64,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,What foods are best to prevent breast cancer,To promote breast cancer awareness month,7.118466667
+65,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,What can be done to prevent breast cancer,To promote breast cancer awareness month,7.118466667
+66,images/science_journals/1.png,94,#NAME?,news,a building that has been destroyed,How did the building collapse,To shock and horror the viewer,7.118466667
+67,images/science_journals/1.png,94,#NAME?,news,a building that has been destroyed,Was anyone injured in the incident,To shock and horror the viewer,7.118466667
+68,images/shopping/5.png,30.33333333,#NAME?,shopping,a group of vases,What does the vase look like?,Because a vase holds the plants for decoration,6.759633333
+69,images/shopping/5.png,30.33333333,#NAME?,shopping,a group of vases,What kind of vase is it?,Because a vase holds the plants for decoration,6.759633333
+70,images/science_journals/2.png,41.83333333,#NAME?,science_journals,a man and woman in wetsuits,What do the wetsuits look like?,To promote the product of the wetsuits for people to buy.,6.759633333
+71,images/science_journals/2.png,41.83333333,#NAME?,science_journals,a man and woman in wetsuits,What kind of wetsuit pattern is available?,To promote the product of the wetsuits for people to buy.,6.759633333
+72,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,What kind of dance is she doing?,To display the dance for entertainment,6.759633333
+73,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,What is this dance on the news?,To display the dance for entertainment,6.759633333
+74,images/travel/5.png,94.5,#NAME?,travel,a woman walking down a street with her suitcase,How many lbs or kg can the suitcase weigh?,To promote the suitcase for traveling.,6.759633333
+75,images/travel/5.png,94.5,#NAME?,travel,a woman walking down a street with her suitcase,What is the recommended suitcase?,To promote the suitcase for traveling.,6.759633333
+76,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,Is this recommended?,To promote the health and fitness of this sport,6.759633333
+77,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,Why is it in pink?,To promote the health and fitness of this sport,6.759633333
+78,images/news_journals/34.png,42,#NAME?,news,a woman standing on the beach,What do these people have to do with the news?,Because it is an article about something contaminating the beach.,11.98775
+79,images/news_journals/34.png,42,#NAME?,news,a woman standing on the beach,What is happening on the beach?,Because it is an article about something contaminating the beach.,11.98775
+80,images/social_media/7.png,16.5,#NAME?,social_media,a man in a black shirt standing in front of,Are you doing something with people?,Because he is doing something outside,11.98775
+81,images/social_media/7.png,16.5,#NAME?,social_media,a man in a black shirt standing in front of,Are you at your house?,Because he is doing something outside,11.98775
+82,images/shopping/7.png,65.4,#NAME?,shopping,a man wearing a white t - shirt,Are you a model for this website?,Because they are modeling the shirt,11.98775
+83,images/shopping/7.png,65.4,#NAME?,shopping,a man wearing a white t - shirt,Do you own that shirt?,Because they are modeling the shirt,11.98775
+84,images/science_journals/2.png,77.83333333,#NAME?,travel,a man and woman in wetsuits,Are they modeling for the website,Because they are modeling for the travel website,11.98775
+85,images/science_journals/2.png,77.83333333,#NAME?,travel,a man and woman in wetsuits,What are they doing in wetsuits,Because they are modeling for the travel website,11.98775
+86,images/science_journals/1.png,51.5,#NAME?,health,a building that has been destroyed,Where is this building located?,Because the health website is reporting on news of the building being desttroyed,11.98775
+87,images/science_journals/1.png,51.5,#NAME?,health,a building that has been destroyed,How did this building get destroyed?,Because the health website is reporting on news of the building being desttroyed,11.98775
+88,images/science_journals/6.png,9.666666667,#NAME?,science_journals,a group of men standing in front of a wall,Why are these men standing at the wall?,Because the website has something to do with immigration and the men standing at the wall are trying to immigrate,11.98775
+89,images/science_journals/6.png,9.666666667,#NAME?,science_journals,a group of men standing in front of a wall,Where is this wall located?,Because the website has something to do with immigration and the men standing at the wall are trying to immigrate,11.98775
+90,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,what happened in india,Because of floods or some other event in india,4.637666667
+91,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,is there a indian festival?,Because of floods or some other event in india,4.637666667
+92,images/science_journals/2.png,77.83333333,#NAME?,travel,a man and woman in wetsuits,What destination are they at?,Because they are advertising a destination with good diving,4.637666667
+93,images/science_journals/2.png,77.83333333,#NAME?,travel,a man and woman in wetsuits,How much does it cost to go?,Because they are advertising a destination with good diving,4.637666667
+94,images/news_journals/4.png,65.4,#NAME?,science_journals,a seal on the beach,What is wrong with seals at this time?,Because they are talking about conserving seal populations,4.637666667
+95,images/news_journals/4.png,65.4,#NAME?,science_journals,a seal on the beach,What is the decline of seals like?,Because they are talking about conserving seal populations,4.637666667
+96,images/travel/6.png,57,#NAME?,social_media,a bowl of noodles with vegetables,Where did they buy this dish?,Because they went to an authentic resturant,4.637666667
+97,images/travel/6.png,57,#NAME?,social_media,a bowl of noodles with vegetables,Is it good?,Because they went to an authentic resturant,4.637666667
+98,images/travel/5.png,56.5,#NAME?,shopping,a woman walking down a street with her suitcase,What are the best shopping destinations?,Article on the best destinations for shopping,4.637666667
+99,images/travel/5.png,56.5,#NAME?,shopping,a woman walking down a street with her suitcase,Is this article aimed at women or men?,Article on the best destinations for shopping,4.637666667
+100,images/health/7.png,74.75,#NAME?,health,two women in blue sports bras and leggings,Is this routine for guys as well?,Because it talks about womens exercise routines,4.637666667
+101,images/health/7.png,74.75,#NAME?,health,two women in blue sports bras and leggings,What are they selling?,Because it talks about womens exercise routines,4.637666667
+102,images/news_journals/25.png,36.25,#NAME?,news,a group of people sitting at a table,Did these people obtain consent?,Could be an image from a college campus about an article about that college,4.553566667
+103,images/news_journals/25.png,36.25,#NAME?,news,a group of people sitting at a table,Are these people described in the article?,Could be an image from a college campus about an article about that college,4.553566667
+104,images/travel/6.png,51,#NAME?,health,a bowl of noodles with vegetables,Is this meal healthy or unhealthy?,perhaps it's a depiction of a healthy meal,4.553566667
+105,images/travel/6.png,51,#NAME?,health,a bowl of noodles with vegetables,Will this article give the results of a study on healthy eating?,perhaps it's a depiction of a healthy meal,4.553566667
+106,images/social_media/7.png,16.5,#NAME?,social_media,a man in a black shirt standing in front of,Is this image being posted by the man in the photo?,he is posting himself on his social media account,4.553566667
+107,images/social_media/7.png,16.5,#NAME?,social_media,a man in a black shirt standing in front of,Do I know this man?,he is posting himself on his social media account,4.553566667
+108,images/travel/4.png,90,#NAME?,travel,a skier on a mountain,Where is this location?,Advertising a destination to tourists,4.553566667
+109,images/travel/4.png,90,#NAME?,travel,a skier on a mountain,What are other activities or sights are this location?,Advertising a destination to tourists,4.553566667
+110,images/shopping/3.png,31,#NAME?,shopping,a man with a beard sitting on a rock near,What brand(s) can you shop?,This could be a depiction of a potential shopper,4.553566667
+111,images/shopping/3.png,31,#NAME?,shopping,a man with a beard sitting on a rock near,What age group do they cater to?,This could be a depiction of a potential shopper,4.553566667
+112,images/science_journals/4.png,57.33333333,#NAME?,science_journals,a boat with a crab in it,Are crabs endangered?,article about how fishing affects crabs,4.553566667
+113,images/science_journals/4.png,57.33333333,#NAME?,science_journals,a boat with a crab in it,What are the effects of fishing for crabs?,article about how fishing affects crabs,4.553566667
+114,images/travel/4.png,59,#NAME?,health,a skier on a mountain,"Is it on the home page, or elsewhere? ",To portray the ideal healthy lifestyle,5.013933333
+115,images/travel/4.png,59,#NAME?,health,a skier on a mountain,Does this website encourage healthy living,To portray the ideal healthy lifestyle,5.013933333
+116,images/health/3.png,62.33333333,#NAME?,shopping,a woman in a pink sports bra top,What's the website name,To showcase the items being sold,5.013933333
+117,images/health/3.png,62.33333333,#NAME?,shopping,a woman in a pink sports bra top,Does the website sell sports bras,To showcase the items being sold,5.013933333
+118,images/science_journals/5.png,87.5,#NAME?,travel,people fishing in the river,Are they in fishing gear? ,To showcase an activity to do while traveling,5.013933333
+119,images/science_journals/5.png,87.5,#NAME?,travel,people fishing in the river,Do they look like they're having fun?,To showcase an activity to do while traveling,5.013933333
+120,images/social_media/5.png,62.125,#NAME?,news,the women's soccer team,Which team is it? ,This team accomplished something important,5.013933333
+121,images/social_media/5.png,62.125,#NAME?,news,the women's soccer team,Do they look like they're celebrating? ,This team accomplished something important,5.013933333
+122,images/social_media/7.png,80.5,#NAME?,science_journals,a man in a black shirt standing in front of,What's the man standing in front of,This man made a scientific discovery,5.013933333
+123,images/social_media/7.png,80.5,#NAME?,science_journals,a man in a black shirt standing in front of,Is there a name for the person in the photo? ,This man made a scientific discovery,5.013933333
+124,images/science_journals/1.png,51.5,#NAME?,health,a building that has been destroyed,where is this building located,maybe something to do with community health maybe war?,7.51405
+125,images/science_journals/1.png,51.5,#NAME?,health,a building that has been destroyed,why is it being destroyed,maybe something to do with community health maybe war?,7.51405
+126,images/news_journals/11.png,68,#NAME?,news,two soccer players running after the ball,who are the players,must be covering soccer in an article,7.51405
+127,images/news_journals/11.png,68,#NAME?,news,two soccer players running after the ball,where and what team are they playing,must be covering soccer in an article,7.51405
+128,images/shopping/3.png,51.28571429,#NAME?,social_media,a man with a beard sitting on a rock near,who is this man,must be someones profile picture ,7.51405
+129,images/shopping/3.png,51.28571429,#NAME?,social_media,a man with a beard sitting on a rock near,does he know any of my connections,must be someones profile picture ,7.51405
+130,images/news_journals/15.png,82,#NAME?,travel,a woman performing an indian dance,where can one go to view this dance,it is showing the culture of a location to travel to,7.51405
+131,images/news_journals/15.png,82,#NAME?,travel,a woman performing an indian dance,why is she dancing,it is showing the culture of a location to travel to,7.51405
+132,images/health/5.png,39,#NAME?,health,a woman kiteboarding in the ocean,How old is this woman? ,"The woman is active and participating in a hobby, therefore, healthy. ",4.99615
+133,images/health/5.png,39,#NAME?,health,a woman kiteboarding in the ocean,Is she running with kite?,"The woman is active and participating in a hobby, therefore, healthy. ",4.99615
+134,images/news_journals/4.png,65.4,#NAME?,science_journals,a seal on the beach,What kind of seal is this?,Seals and beaches are often studied under biological sciences,4.99615
+135,images/news_journals/4.png,65.4,#NAME?,science_journals,a seal on the beach,Are they studying oceanic seals?,Seals and beaches are often studied under biological sciences,4.99615
+136,images/health/3.png,62.33333333,#NAME?,shopping,a woman in a pink sports bra top,How much money is bra?,"Pink sports bras make women feel both feminine, and active/healthy. ",4.99615
+137,images/health/3.png,62.33333333,#NAME?,shopping,a woman in a pink sports bra top,How much support does it offer?,"Pink sports bras make women feel both feminine, and active/healthy. ",4.99615
+138,images/travel/4.png,90,#NAME?,travel,a skier on a mountain,Where is this ski lodge?,Travelers often ski on vacations,4.99615
+139,images/travel/4.png,90,#NAME?,travel,a skier on a mountain,How much is it to ski there?,Travelers often ski on vacations,4.99615
+140,images/science_journals/4.png,51.66666667,#NAME?,news,a boat with a crab in it,Why is crab in boat?,To tell story of a boating expedition involving crabs,4.99615
+141,images/science_journals/4.png,51.66666667,#NAME?,news,a boat with a crab in it,What did they learn about crabs?,To tell story of a boating expedition involving crabs,4.99615
+142,images/science_journals/2.png,59.33333333,#NAME?,social_media,a man and woman in wetsuits,Where did they surf?,"To show a couple going surfing together, to share a memory",4.99615
+143,images/science_journals/2.png,59.33333333,#NAME?,social_media,a man and woman in wetsuits,Did they have fun?,"To show a couple going surfing together, to share a memory",4.99615
+144,images/shopping/5.png,30.33333333,#NAME?,shopping,a group of vases,What color are the vases?,It is most likely for sale on the website.,10.84198333
+145,images/shopping/5.png,30.33333333,#NAME?,shopping,a group of vases,How many vases are there?,It is most likely for sale on the website.,10.84198333
+146,images/science_journals/2.png,77.83333333,#NAME?,travel,a man and woman in wetsuits,Do they offer snorkeling or scuba diving?,Its fitting for a travel website,10.84198333
+147,images/science_journals/2.png,77.83333333,#NAME?,travel,a man and woman in wetsuits,I wonder where I could go to do this?,Its fitting for a travel website,10.84198333
+148,images/science_journals/6.png,9.666666667,#NAME?,science_journals,a group of men standing in front of a wall,Why are these guys in front of a wall?,Either a metaphorical image or the wall is located somewhere they found something?,10.84198333
+149,images/science_journals/6.png,9.666666667,#NAME?,science_journals,a group of men standing in front of a wall,Did something happen at this wall?,Either a metaphorical image or the wall is located somewhere they found something?,10.84198333
+150,images/shopping/7.png,65.4,#NAME?,shopping,a man wearing a white t - shirt,What is my t shirt size?,I think it is the typical casual look of a man.,10.15386667
+151,images/shopping/7.png,65.4,#NAME?,shopping,a man wearing a white t - shirt,Where I can get the most affordable?,I think it is the typical casual look of a man.,10.15386667
+152,images/social_media/7.png,80.5,#NAME?,science_journals,a man in a black shirt standing in front of,Who is the man in the black shirt?,I think it is a host of a tv show.,10.15386667
+153,images/social_media/7.png,80.5,#NAME?,science_journals,a man in a black shirt standing in front of,What does he do?,I think it is a host of a tv show.,10.15386667
+154,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,Who is that woman?,She must be someone that made headlines that day.,10.15386667
+155,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,Why is she dancing?,She must be someone that made headlines that day.,10.15386667
+156,images/travel/5.png,53.16666667,#NAME?,social_media,a woman walking down a street with her suitcase,Who is that woman?,She probably made headlines that day.,10.15386667
+157,images/travel/5.png,53.16666667,#NAME?,social_media,a woman walking down a street with her suitcase,Why is she carrying a suitcase?,She probably made headlines that day.,10.15386667
+158,images/science_journals/1.png,51.5,#NAME?,health,a building that has been destroyed,Why is the building collapsing?,I think it is a sketchy website.,10.15386667
+159,images/science_journals/1.png,51.5,#NAME?,health,a building that has been destroyed,Does it have to do with someone's health?,I think it is a sketchy website.,10.15386667
+160,images/science_journals/5.png,87.5,#NAME?,travel,people fishing in the river,Where are the people fishing?,It must be a very peaceful location.,10.15386667
+161,images/science_journals/5.png,87.5,#NAME?,travel,people fishing in the river,Where is that fishing place?,It must be a very peaceful location.,10.15386667
+162,images/news_journals/8.png,84.5,#NAME?,news,a man giving a speech,Who is giving the speech?,Speeches are usually news worthy events,9.897166667
+163,images/news_journals/8.png,84.5,#NAME?,news,a man giving a speech,What is the speech about?,Speeches are usually news worthy events,9.897166667
+164,images/shopping/3.png,51.28571429,#NAME?,social_media,a man with a beard sitting on a rock near,Where is this location?,People pose in nature for social medias photos,9.897166667
+165,images/shopping/3.png,51.28571429,#NAME?,social_media,a man with a beard sitting on a rock near,Who is in the picture?,People pose in nature for social medias photos,9.897166667
+166,images/science_journals/4.png,59,#NAME?,travel,a boat with a crab in it,Where is this location?,It is likely an article about traveling to ocean/marine locations,9.897166667
+167,images/science_journals/4.png,59,#NAME?,travel,a boat with a crab in it,What is the context of the article?,It is likely an article about traveling to ocean/marine locations,9.897166667
+168,images/social_media/1.png,100,#NAME?,shopping,a man with dreadlocks wearing a jacket and pants,What store is it?,Model posing to show off new clothes from the store,9.897166667
+169,images/social_media/1.png,100,#NAME?,shopping,a man with dreadlocks wearing a jacket and pants,What color are the clothes?,Model posing to show off new clothes from the store,9.897166667
+170,images/travel/2.png,83.25,#NAME?,science_journals,a scuba diver in the ocean,What is around the scuba diver?,Likely an article about ocean related research,9.897166667
+171,images/travel/2.png,83.25,#NAME?,science_journals,a scuba diver in the ocean,What is the context of the article?,Likely an article about ocean related research,9.897166667
+172,images/science_journals/2.png,62.83333333,#NAME?,health,a man and woman in wetsuits,What are they doing?,Likely an article about water-based sports ,9.897166667
+173,images/science_journals/2.png,62.83333333,#NAME?,health,a man and woman in wetsuits,Where are they at?,Likely an article about water-based sports ,9.897166667
+174,images/news_journals/25.png,36.25,#NAME?,news,a group of people sitting at a table,Why are they at the table together?,Maybe they are discussing something pertaining to the workplace.,3.399983333
+175,images/news_journals/25.png,36.25,#NAME?,news,a group of people sitting at a table,What kind of table?,Maybe they are discussing something pertaining to the workplace.,3.399983333
+176,images/shopping/6.png,78.14285714,#NAME?,travel,a snowboarder standing on a snow covered hill,What destination?,To showcase a particular vacation destination,3.399983333
+177,images/shopping/6.png,78.14285714,#NAME?,travel,a snowboarder standing on a snow covered hill,Male or female snowboarder?,To showcase a particular vacation destination,3.399983333
+178,images/travel/6.png,57,#NAME?,social_media,a bowl of noodles with vegetables,Are the noodles gluten-free?,It could be an advertisement for a noodle brand.,3.399983333
+179,images/travel/6.png,57,#NAME?,social_media,a bowl of noodles with vegetables,What kind of noodles are they promoting?,It could be an advertisement for a noodle brand.,3.399983333
+180,images/science_journals/3.png,37.2,#NAME?,science_journals,a concert hall filled with plants,Why are the plants in a concert hall?,Maybe to promote the effects of climate change?,3.399983333
+181,images/science_journals/3.png,37.2,#NAME?,science_journals,a concert hall filled with plants,What kind of plants?,Maybe to promote the effects of climate change?,3.399983333
+182,images/health/6.png,93,#NAME?,health,various foods that are in bowls,What kinds of foods are they promoting?,To promote healthy eating/living.,3.399983333
+183,images/health/6.png,93,#NAME?,health,various foods that are in bowls,Do they follow a particular diet?,To promote healthy eating/living.,3.399983333
+184,images/shopping/5.png,30.33333333,#NAME?,shopping,a group of vases,What do the vases look like?,They are trying to sell the vases.,3.399983333
+185,images/shopping/5.png,30.33333333,#NAME?,shopping,a group of vases,What are they priced at?,They are trying to sell the vases.,3.399983333
+186,images/travel/7.png,58.5,#NAME?,news,a woman taking a picture of a narrow alley,Why is she taking a picture of the alley?,There was a crime scene in the alley,5.384983333
+187,images/travel/7.png,58.5,#NAME?,news,a woman taking a picture of a narrow alley,Did something happen in the alley?,There was a crime scene in the alley,5.384983333
+188,images/science_journals/6.png,9.666666667,#NAME?,science_journals,a group of men standing in front of a wall,Why are the men staring at the wall?,There is something up with the wall,5.384983333
+189,images/science_journals/6.png,9.666666667,#NAME?,science_journals,a group of men standing in front of a wall,Does the image have any relevance to the article?,There is something up with the wall,5.384983333
+190,images/travel/2.png,86.75,#NAME?,travel,a scuba diver in the ocean,Where was this picture taken?,They are advertising a travel destination where scuba diving is popular.,5.384983333
+191,images/travel/2.png,86.75,#NAME?,travel,a scuba diver in the ocean,Where do I go scuba diving?,They are advertising a travel destination where scuba diving is popular.,5.384983333
+192,images/shopping/6.png,62.14285714,#NAME?,social_media,a snowboarder standing on a snow covered hill,Why are they showing me this image?,They are trying to show off a famous influencer from the site.,5.384983333
+193,images/shopping/6.png,62.14285714,#NAME?,social_media,a snowboarder standing on a snow covered hill,Who is this person in the photo?,They are trying to show off a famous influencer from the site.,5.384983333
+194,images/health/1.png,87.75,#NAME?,health,a doctor and an elderly woman,Is the doctor in the photo related to the website?,To show a nice interaction between one of their doctors and a patient.,5.384983333
+195,images/health/1.png,87.75,#NAME?,health,a doctor and an elderly woman,Why am I being shown this image?,To show a nice interaction between one of their doctors and a patient.,5.384983333
+196,images/shopping/2.png,43,#NAME?,shopping,a man wearing a sweater,Is this same sweater available for purchase?,To show off one of the sweaters that they are selling.,5.384983333
+197,images/shopping/2.png,43,#NAME?,shopping,a man wearing a sweater,Who is the person in the photo?,To show off one of the sweaters that they are selling.,5.384983333
+198,images/shopping/3.png,51.28571429,#NAME?,social_media,a man with a beard sitting on a rock near,Where is this taken,I think that a man posted a picture of himself in nature.,6.206716667
+199,images/shopping/3.png,51.28571429,#NAME?,social_media,a man with a beard sitting on a rock near,Why was he there?,I think that a man posted a picture of himself in nature.,6.206716667
+200,images/science_journals/4.png,57.33333333,#NAME?,science_journals,a boat with a crab in it,What the crab is doing on the boat?,I think an article probably follows the picture.,6.206716667
+201,images/science_journals/4.png,57.33333333,#NAME?,science_journals,a boat with a crab in it,Where is the boat?,I think an article probably follows the picture.,6.206716667
+202,images/shopping/2.png,43,#NAME?,shopping,a man wearing a sweater,What is the price?,I think it is an advertisement.,6.206716667
+203,images/shopping/2.png,43,#NAME?,shopping,a man wearing a sweater,What are the reviews?,I think it is an advertisement.,6.206716667
+204,images/science_journals/1.png,94,#NAME?,news,a building that has been destroyed,Why is the building destroyed?,I think it is a picture with a related article.,6.206716667
+205,images/science_journals/1.png,94,#NAME?,news,a building that has been destroyed,Where is the location?,I think it is a picture with a related article.,6.206716667
+206,images/health/6.png,93,#NAME?,health,various foods that are in bowls,What the article is about?,I think the picture probably relates to an article.,6.206716667
+207,images/health/6.png,93,#NAME?,health,various foods that are in bowls,Why are those particular foods in the bowls?,I think the picture probably relates to an article.,6.206716667
+208,images/health/2.png,90.75,#NAME?,travel,a woman running on a mountain,I would want to know the location.,I think it is to promote a park or trail.,6.206716667
+209,images/health/2.png,90.75,#NAME?,travel,a woman running on a mountain,I would want to know why she is running.,I think it is to promote a park or trail.,6.206716667
+210,images/health/1.png,87.75,#NAME?,health,a doctor and an elderly woman,Does the elderly woman look sick?,It is a visual representation of what to expect.,7.02125
+211,images/health/1.png,87.75,#NAME?,health,a doctor and an elderly woman,Is the elderly woman in an exam room?,It is a visual representation of what to expect.,7.02125
+212,images/science_journals/1.png,48.5,#NAME?,science_journals,a building that has been destroyed,Why was the building destroyed.,A destroyed building could be caused by a recent development.,7.02125
+213,images/science_journals/1.png,48.5,#NAME?,science_journals,a building that has been destroyed,What else is around the destroyed building?,A destroyed building could be caused by a recent development.,7.02125
+214,images/social_media/1.png,100,#NAME?,shopping,a man with dreadlocks wearing a jacket and pants,What color are the pants?,The clothing worn by the man would represent the items available to purchase.,7.02125
+215,images/social_media/1.png,100,#NAME?,shopping,a man with dreadlocks wearing a jacket and pants,Is the jacket a light or warm jacket?,The clothing worn by the man would represent the items available to purchase.,7.02125
+216,images/travel/5.png,53.16666667,#NAME?,social_media,a woman walking down a street with her suitcase,Is it a busy street?,"It would show that the woman was on vacation, which tells me more about them.",7.02125
+217,images/travel/5.png,53.16666667,#NAME?,social_media,a woman walking down a street with her suitcase,Are there other people with her?,"It would show that the woman was on vacation, which tells me more about them.",7.02125
+218,images/news_journals/4.png,32.6,#NAME?,news,a seal on the beach,Is the seal dead or alive?,The image would appear for an article about there being a seal on the beach.,7.02125
+219,images/news_journals/4.png,32.6,#NAME?,news,a seal on the beach,Is the beach crowded with people?,The image would appear for an article about there being a seal on the beach.,7.02125
+220,images/science_journals/2.png,77.83333333,#NAME?,travel,a man and woman in wetsuits,What does the wet suits look like.,"It would represent there being snorkeling, surfing, or diving areas at the location.",7.02125
+221,images/science_journals/2.png,77.83333333,#NAME?,travel,a man and woman in wetsuits,Do they have masks or an oxygen tank as well?,"It would represent there being snorkeling, surfing, or diving areas at the location.",7.02125
+222,images/science_journals/1.png,51.5,#NAME?,health,a building that has been destroyed,Why the building there and what does it have to do with my health?,I think a destroyed building would be a representation of how a persons health could be if not taken care off. It can crumble just like the persons health.,16.23835
+223,images/science_journals/1.png,51.5,#NAME?,health,a building that has been destroyed,Does the building represent something?,I think a destroyed building would be a representation of how a persons health could be if not taken care off. It can crumble just like the persons health.,16.23835
+224,images/social_media/7.png,16.5,#NAME?,social_media,a man in a black shirt standing in front of,I would like to know the context behind the image.,"Social media is full of many random things, I think the image would be there because it is social media and it can be a friend who is trying to be funny or someone with a political agenda.",16.23835
+225,images/social_media/7.png,16.5,#NAME?,social_media,a man in a black shirt standing in front of,I would like to know why it was placed there?,"Social media is full of many random things, I think the image would be there because it is social media and it can be a friend who is trying to be funny or someone with a political agenda.",16.23835
+226,images/shopping/7.png,65.4,#NAME?,shopping,a man wearing a white t - shirt,I would like to know if they have the t-shirt in my size,Since it is a shopping website I think it is there because it is a product that is meant to be sold. ,16.23835
+227,images/shopping/7.png,65.4,#NAME?,shopping,a man wearing a white t - shirt,I would like to know the price,Since it is a shopping website I think it is there because it is a product that is meant to be sold. ,16.23835
+228,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,I would like to know more of Indian dancing such as how the dance is performed.,I think it appears in the news website because they want to provide information on indian dancing. ,16.23835
+229,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,I would like to know if they can cover more of these news stories.,I think it appears in the news website because they want to provide information on indian dancing. ,16.23835
+230,images/science_journals/4.png,59,#NAME?,travel,a boat with a crab in it,I would like to know where this location is.,"I think that since it is a travel website, an image of a boat with a crab in it is there because they want to highlight a beautiful place that has a beautiful scenery with many boats.",16.23835
+231,images/science_journals/4.png,59,#NAME?,travel,a boat with a crab in it,I would like to know the price of getting there.,"I think that since it is a travel website, an image of a boat with a crab in it is there because they want to highlight a beautiful place that has a beautiful scenery with many boats.",16.23835
+232,images/science_journals/2.png,41.83333333,#NAME?,science_journals,a man and woman in wetsuits,I would like to know why the man and woman are there.,The image is on the magazine because the man and woman may be experts that are examining or researching something in the water.,16.23835
+233,images/science_journals/2.png,41.83333333,#NAME?,science_journals,a man and woman in wetsuits,I would like to know where their location is.,The image is on the magazine because the man and woman may be experts that are examining or researching something in the water.,16.23835
+234,images/social_media/1.png,68,#NAME?,social_media,a man with dreadlocks wearing a jacket and pants,Who is this person?,It is likely a selfie or photo of someone's connection.,8.378366667
+235,images/social_media/1.png,68,#NAME?,social_media,a man with dreadlocks wearing a jacket and pants,Where are they at?,It is likely a selfie or photo of someone's connection.,8.378366667
+236,images/science_journals/2.png,62.83333333,#NAME?,health,a man and woman in wetsuits,Where are these people at?,"It's to show people living an ""active"" lifestyle",8.378366667
+237,images/science_journals/2.png,62.83333333,#NAME?,health,a man and woman in wetsuits,How old are the people in wet suits?,"It's to show people living an ""active"" lifestyle",8.378366667
+238,images/health/2.png,90.75,#NAME?,travel,a woman running on a mountain,Where is the mountain at?,To show someone having an adventure and make the viewer excited,8.378366667
+239,images/health/2.png,90.75,#NAME?,travel,a woman running on a mountain,Is the woman by herself?,To show someone having an adventure and make the viewer excited,8.378366667
+240,images/science_journals/6.png,9.666666667,#NAME?,science_journals,a group of men standing in front of a wall,"Where are these men located, or what does the wall look like?",It may be showing men of different sizes and makeups for the purposes of explaining a concept.,8.378366667
+241,images/science_journals/6.png,9.666666667,#NAME?,science_journals,a group of men standing in front of a wall,What do the men look like?,It may be showing men of different sizes and makeups for the purposes of explaining a concept.,8.378366667
+242,images/news_journals/4.png,32.6,#NAME?,news,a seal on the beach,What type of seal is shown?,The article likely has something to do with the wildlife in an area.,8.378366667
+243,images/news_journals/4.png,32.6,#NAME?,news,a seal on the beach,Where is the beach at?,The article likely has something to do with the wildlife in an area.,8.378366667
+244,images/shopping/3.png,31,#NAME?,shopping,a man with a beard sitting on a rock near,What clothes is the man wearing?,It's to show a person wearing specific clothing that is trying to be sold in a pleasant environment.,8.378366667
+245,images/shopping/3.png,31,#NAME?,shopping,a man with a beard sitting on a rock near,What colors and styles are his clothes?,It's to show a person wearing specific clothing that is trying to be sold in a pleasant environment.,8.378366667
+246,images/news_journals/4.png,65.4,#NAME?,science_journals,a seal on the beach,where is this seal located?,they are providing info about seals,7.1665
+247,images/news_journals/4.png,65.4,#NAME?,science_journals,a seal on the beach,what kind of seal is it?,they are providing info about seals,7.1665
+248,images/news_journals/8.png,84.5,#NAME?,news,a man giving a speech,what is the speech about?,The website is probably sharing information about the speech. ,7.1665
+249,images/news_journals/8.png,84.5,#NAME?,news,a man giving a speech,who is the man giving the speech?,The website is probably sharing information about the speech. ,7.1665
+250,images/science_journals/2.png,59.33333333,#NAME?,social_media,a man and woman in wetsuits,where are they?,they are probably sharing pictures from a trip ,7.1665
+251,images/science_journals/2.png,59.33333333,#NAME?,social_media,a man and woman in wetsuits,why are they wearing wetsuits?,they are probably sharing pictures from a trip ,7.1665
+252,images/news_journals/15.png,82,#NAME?,travel,a woman performing an indian dance,What is it like traveling to india?,The website features information about traveling to india. ,7.1665
+253,images/news_journals/15.png,82,#NAME?,travel,a woman performing an indian dance,what kind of dance is the woman doing?,The website features information about traveling to india. ,7.1665
+254,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,"what kind of workout is the woman doing?
+",The article is probably about working out or workout outfits. ,7.1665
+255,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,where did her outfit come from?,The article is probably about working out or workout outfits. ,7.1665
+256,images/shopping/2.png,43,#NAME?,shopping,a man wearing a sweater,what is the price of the sweater?,The sweater is most likely for sale. ,7.1665
+257,images/shopping/2.png,43,#NAME?,shopping,a man wearing a sweater,what size does it come in?,The sweater is most likely for sale. ,7.1665
+258,images/science_journals/2.png,59.33333333,#NAME?,social_media,a man and woman in wetsuits,If it is trying to sell me something,To advertise a product or share an experience they had,4.996033333
+259,images/science_journals/2.png,59.33333333,#NAME?,social_media,a man and woman in wetsuits,If it is for personal emjoyment,To advertise a product or share an experience they had,4.996033333
+260,images/news_journals/34.png,42,#NAME?,news,a woman standing on the beach,Is this person a part of the story,To add an imae to grab people attention,4.996033333
+261,images/news_journals/34.png,42,#NAME?,news,a woman standing on the beach,Does the person in the image want their photo to be shared,To add an imae to grab people attention,4.996033333
+262,images/travel/6.png,49.6,#NAME?,travel,a bowl of noodles with vegetables,Is this a common tourist dish,To appeal to potential consumers,4.996033333
+263,images/travel/6.png,49.6,#NAME?,travel,a bowl of noodles with vegetables,What the ratings are for the resteraunt its from,To appeal to potential consumers,4.996033333
+264,images/shopping/3.png,51.28571429,#NAME?,social_media,a man with a beard sitting on a rock near,Why is he there?,It shows a man in deep thought.,6.662616667
+265,images/shopping/3.png,51.28571429,#NAME?,social_media,a man with a beard sitting on a rock near,What is he thinking?,It shows a man in deep thought.,6.662616667
+266,images/social_media/7.png,80.5,#NAME?,science_journals,a man in a black shirt standing in front of,What did this person do?,A man who has accomplished something in the science industry.,6.662616667
+267,images/social_media/7.png,80.5,#NAME?,science_journals,a man in a black shirt standing in front of,Who is he?,A man who has accomplished something in the science industry.,6.662616667
+268,images/news_journals/4.png,32.6,#NAME?,news,a seal on the beach,What is going on with seals?,A story about seals and their status.,6.662616667
+269,images/news_journals/4.png,32.6,#NAME?,news,a seal on the beach,Are the seals okay?,A story about seals and their status.,6.662616667
+270,images/health/2.png,90.75,#NAME?,travel,a woman running on a mountain,Where is she?,A destination for travel that has great outdoors.,6.662616667
+271,images/health/2.png,90.75,#NAME?,travel,a woman running on a mountain,Who is she?,A destination for travel that has great outdoors.,6.662616667
+272,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,Does she have breast cancer?,A woman that supports breast cancer awareness,6.662616667
+273,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,Who is she?,A woman that supports breast cancer awareness,6.662616667
+274,images/social_media/7.png,68.25,#NAME?,news,a man in a black shirt standing in front of,What is the man standing in front of?,I think I'm being shown a news anchor or a interviewee,7.686
+275,images/social_media/7.png,68.25,#NAME?,news,a man in a black shirt standing in front of,Who is this person?,I think I'm being shown a news anchor or a interviewee,7.686
+276,images/health/2.png,90.75,#NAME?,travel,a woman running on a mountain,Where is the mountain located?,I think it's a promotional image depicting jogging and adventure,7.686
+277,images/health/2.png,90.75,#NAME?,travel,a woman running on a mountain,How is the woman dressed?,I think it's a promotional image depicting jogging and adventure,7.686
+278,images/shopping/4.png,50.75,#NAME?,social_media,the pool at the holiday inn in san diego,Are there any people in this picture?,The website might be advertising to me about holiday destination,7.686
+279,images/shopping/4.png,50.75,#NAME?,social_media,the pool at the holiday inn in san diego,Is this picture from an advertisement or from someone I know?,The website might be advertising to me about holiday destination,7.686
+280,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,What is the woman doing?,It is probably a person in good shape to enhance my perception of th eadvice on this website,7.686
+281,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,Is the woman working out or eating something?,It is probably a person in good shape to enhance my perception of th eadvice on this website,7.686
+282,images/science_journals/7.png,3.5,#NAME?,science_journals,a street sign that says the olde street,What does the surroundings of the street sign look like?,It might be a editorial section or something about a location,7.686
+283,images/science_journals/7.png,3.5,#NAME?,science_journals,a street sign that says the olde street,Where is this image located?,It might be a editorial section or something about a location,7.686
+284,images/shopping/6.png,61.42857143,#NAME?,shopping,a snowboarder standing on a snow covered hill,What is the snowboarder wearing?,It's probably part of an advertisement about cold weather equipment,7.686
+285,images/shopping/6.png,61.42857143,#NAME?,shopping,a snowboarder standing on a snow covered hill,Does the snowboarder look comfortable and confident or not?,It's probably part of an advertisement about cold weather equipment,7.686
+286,images/news_journals/11.png,68,#NAME?,news,two soccer players running after the ball,What teams are they one?,I believe the news wrote an article on a soccer twam,9.074616667
+287,images/news_journals/11.png,68,#NAME?,news,two soccer players running after the ball,Where are the teams located?,I believe the news wrote an article on a soccer twam,9.074616667
+288,images/news_journals/4.png,65.4,#NAME?,science_journals,a seal on the beach,Where are these seals located?,They probably have an article on seals,9.074616667
+289,images/news_journals/4.png,65.4,#NAME?,science_journals,a seal on the beach,Is there seal over population ,They probably have an article on seals,9.074616667
+290,images/travel/4.png,59,#NAME?,health,a skier on a mountain,What are the health benefits of skiing?,They believe skiing is a good exercise ,9.074616667
+291,images/travel/4.png,59,#NAME?,health,a skier on a mountain,Is it more dangerous than just working out,They believe skiing is a good exercise ,9.074616667
+292,images/science_journals/2.png,77.83333333,#NAME?,travel,a man and woman in wetsuits,Is it scuba diving ?,They are probably advertising scuba diving ,9.074616667
+293,images/science_journals/2.png,77.83333333,#NAME?,travel,a man and woman in wetsuits,Where are they diving?,They are probably advertising scuba diving ,9.074616667
+294,images/news_journals/15.png,52.66666667,#NAME?,shopping,a woman performing an indian dance,Is there any local Indian attire?,Advertising Indian clothing or instruments ,9.074616667
+,,,,,,,,
+296,images/shopping/6.png,78.14285714,#NAME?,travel,a snowboarder standing on a snow covered hill,Is the whole vacation in a cold climate,I think the image would appear because it must be a travel website displaying colder climates with cold weather sports/activities,6.829816667
+297,images/shopping/6.png,78.14285714,#NAME?,travel,a snowboarder standing on a snow covered hill,Are there other things to do,I think the image would appear because it must be a travel website displaying colder climates with cold weather sports/activities,6.829816667
+298,images/shopping/3.png,31,#NAME?,shopping,a man with a beard sitting on a rock near,Is it just for men,It is probably a outdoor clothes & gear shop,6.829816667
+299,images/shopping/3.png,31,#NAME?,shopping,a man with a beard sitting on a rock near,"What is he doing near the rock other than sitting, is there a tent or something",It is probably a outdoor clothes & gear shop,6.829816667
+300,images/science_journals/2.png,59.33333333,#NAME?,social_media,a man and woman in wetsuits,Are they surfing,They were probably doing some water sport,6.829816667
+301,images/science_journals/2.png,59.33333333,#NAME?,social_media,a man and woman in wetsuits,Are they diving,They were probably doing some water sport,6.829816667
+302,images/health/6.png,93,#NAME?,health,various foods that are in bowls,What kind of food/diet,It makes sense to include food with health,6.829816667
+303,images/health/6.png,93,#NAME?,health,various foods that are in bowls,Are they displaying a recipe or just graphics,It makes sense to include food with health,6.829816667
+304,images/science_journals/3.png,37.2,#NAME?,science_journals,a concert hall filled with plants,Where is the concert hall,Maybe there was an event with plants relating to science,6.829816667
+305,images/science_journals/3.png,37.2,#NAME?,science_journals,a concert hall filled with plants,"What kind of plants, are they tropical, indoor types, or something else?",Maybe there was an event with plants relating to science,6.829816667
+306,images/social_media/7.png,68.25,#NAME?,news,a man in a black shirt standing in front of,What else is the man doing,Probably the graphic header for an article,6.829816667
+307,images/social_media/7.png,68.25,#NAME?,news,a man in a black shirt standing in front of,What is he standing in front of,Probably the graphic header for an article,6.829816667
+308,images/news_journals/4.png,65.4,#NAME?,science_journals,a seal on the beach,What kind of seal is it,There is a lot of scientific information behind animals and the way they live and the environment that they live in,10.0482
+309,images/news_journals/4.png,65.4,#NAME?,science_journals,a seal on the beach,Where and what beach,There is a lot of scientific information behind animals and the way they live and the environment that they live in,10.0482
+310,images/travel/7.png,58.5,#NAME?,news,a woman taking a picture of a narrow alley,Why is the woman taking a picture of an alley way,"There could be some sort of story behind the alley, maybe a crime or maybe the woman is a photographer",10.0482
+311,images/travel/7.png,58.5,#NAME?,news,a woman taking a picture of a narrow alley,What does the alley mean,"There could be some sort of story behind the alley, maybe a crime or maybe the woman is a photographer",10.0482
+312,images/travel/2.png,86.75,#NAME?,travel,a scuba diver in the ocean,Where is the scuba diver,There is scuba diving where I am interested in traveling,10.0482
+313,images/travel/2.png,86.75,#NAME?,travel,a scuba diver in the ocean,What did they get to see,There is scuba diving where I am interested in traveling,10.0482
+314,images/shopping/6.png,62.14285714,#NAME?,social_media,a snowboarder standing on a snow covered hill,What is the snow boarder doing,Maybe there is some sort of event for snowboarders,10.0482
+315,images/shopping/6.png,62.14285714,#NAME?,social_media,a snowboarder standing on a snow covered hill,Why are they advertising a snowboarder on a hill,Maybe there is some sort of event for snowboarders,10.0482
+316,images/science_journals/5.png,61.33333333,#NAME?,science_journals,people fishing in the river,How does this image pertain to the article?,I would assume that it was included because it pertained to an item in the article.,11.0554
+317,images/science_journals/5.png,61.33333333,#NAME?,science_journals,people fishing in the river,Why this specific image - does it represent something directly from the article or is it an abstract to tie in with the overall vibe of the article?,I would assume that it was included because it pertained to an item in the article.,11.0554
+318,images/shopping/6.png,61.42857143,#NAME?,shopping,a snowboarder standing on a snow covered hill,How is the photo relevant to the website?,"I would assume that they were selling snowboards, gear for snowboarding or snowboarding clothing (or even selling snowboarding trips).",11.0554
+319,images/shopping/6.png,61.42857143,#NAME?,shopping,a snowboarder standing on a snow covered hill,"What does the site sell that relates to what the photo shows (is it an outdoor retailer, a travel agent etc.)?","I would assume that they were selling snowboards, gear for snowboarding or snowboarding clothing (or even selling snowboarding trips).",11.0554
+320,images/science_journals/2.png,59.33333333,#NAME?,social_media,a man and woman in wetsuits,Is the photo an ad for a service or travel etc.?,I would assume that something on the page is related to such a photo like a post about tropical vacations.,11.0554
+321,images/science_journals/2.png,59.33333333,#NAME?,social_media,a man and woman in wetsuits,"Is the photo related to one of the posts, if so, did a friend go on a snorkeling trip?",I would assume that something on the page is related to such a photo like a post about tropical vacations.,11.0554
+322,images/news_journals/11.png,68,#NAME?,news,two soccer players running after the ball,Is the photo an ad or is it part of an article?,I would assume because it was related to an article or an ad on the page.,11.0554
+323,images/news_journals/11.png,68,#NAME?,news,two soccer players running after the ball,Was soccer in the news? Or was it a story about a soccer player?,I would assume because it was related to an article or an ad on the page.,11.0554
+324,images/shopping/4.png,91.25,#NAME?,travel,the pool at the holiday inn in san diego,Is the photo to support an article about San Diego or a pool or about Holiday Inn?,I would assume it was related to the travel article or an ad for the Holiday Inn.,11.0554
+325,images/shopping/4.png,91.25,#NAME?,travel,the pool at the holiday inn in san diego,Is it an ad?,I would assume it was related to the travel article or an ad for the Holiday Inn.,11.0554
+326,images/health/7.png,74.75,#NAME?,health,two women in blue sports bras and leggings,Is it part of the article? How are two women in workout gear related to the article?,I would assume it was related to the article on health and maybe working out.,11.0554
+327,images/health/7.png,74.75,#NAME?,health,two women in blue sports bras and leggings,Is the photo an ad for workout gear?,I would assume it was related to the article on health and maybe working out.,11.0554
+328,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,Where is the woman from?,To share cultural stories and experiences. ,7.316933333
+329,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,"Did something negative happen, or are we honoring?",To share cultural stories and experiences. ,7.316933333
+330,images/science_journals/1.png,48.5,#NAME?,science_journals,a building that has been destroyed,Is the building old?,To share/learn about history and cultural events. ,7.316933333
+331,images/science_journals/1.png,48.5,#NAME?,science_journals,a building that has been destroyed,Where is the building located?,To share/learn about history and cultural events. ,7.316933333
+332,images/social_media/5.png,54.125,#NAME?,social_media,the women's soccer team,What is the name and colors of the team?,Someone in my inner circle may play soccer.,7.316933333
+333,images/social_media/5.png,54.125,#NAME?,social_media,the women's soccer team,Do I know someone who's on this team?,Someone in my inner circle may play soccer.,7.316933333
+334,images/health/1.png,87.75,#NAME?,health,a doctor and an elderly woman,What are they doing?,To compliment the healthy lifestyle article.,7.316933333
+335,images/health/1.png,87.75,#NAME?,health,a doctor and an elderly woman,Do they look happy?,To compliment the healthy lifestyle article.,7.316933333
+336,images/shopping/1.png,100,#NAME?,shopping,a bedroom with a bed and curtains,What color are the curtains?,To showcase their bedroom products. ,7.316933333
+337,images/shopping/1.png,100,#NAME?,shopping,a bedroom with a bed and curtains,What color is the bed?,To showcase their bedroom products. ,7.316933333
+338,images/science_journals/5.png,87.5,#NAME?,travel,people fishing in the river,What is the size/location of the river?,To showcase that you can fish while traveling. ,7.316933333
+339,images/science_journals/5.png,87.5,#NAME?,travel,people fishing in the river,Do the people look happy or bored?,To showcase that you can fish while traveling. ,7.316933333
+340,images/travel/4.png,59,#NAME?,health,a skier on a mountain,why does skiing help?,because the activity of skiing helps promote a healthy lifestyle through exercise. ,8.401416667
+341,images/travel/4.png,59,#NAME?,health,a skier on a mountain,does the elevation of the mountain have anything to do with it?,because the activity of skiing helps promote a healthy lifestyle through exercise. ,8.401416667
+342,images/shopping/4.png,50.75,#NAME?,social_media,the pool at the holiday inn in san diego,is there a hot tub?,because they are promoting a fun/relaxing time while staying at their business. ,8.401416667
+343,images/shopping/4.png,50.75,#NAME?,social_media,the pool at the holiday inn in san diego,is the pool open all year? What hours?,because they are promoting a fun/relaxing time while staying at their business. ,8.401416667
+344,images/social_media/1.png,100,#NAME?,shopping,a man with dreadlocks wearing a jacket and pants,model number for the clothes,promoting the jacket and pants,8.401416667
+345,images/social_media/1.png,100,#NAME?,shopping,a man with dreadlocks wearing a jacket and pants,tell me more about the brand,promoting the jacket and pants,8.401416667
+346,images/shopping/6.png,78.14285714,#NAME?,travel,a snowboarder standing on a snow covered hill,what fee does this company charge?,"trying to promote a type of travel, in this case it would be a snowy location where you can do things like snowboard.",8.401416667
+347,images/shopping/6.png,78.14285714,#NAME?,travel,a snowboarder standing on a snow covered hill,how long this company has been in business,"trying to promote a type of travel, in this case it would be a snowy location where you can do things like snowboard.",8.401416667
+348,images/science_journals/7.png,3.5,#NAME?,science_journals,a street sign that says the olde street,why is this relevant? ,"I have no idea, there must be more context. ",8.401416667
+349,images/science_journals/7.png,3.5,#NAME?,science_journals,a street sign that says the olde street,"what exactly is ""olde street""?","I have no idea, there must be more context. ",8.401416667
+350,images/travel/7.png,58.5,#NAME?,news,a woman taking a picture of a narrow alley,what happened here?,because she's learning about recent news and is trying to capture the moment with capturing photos.,8.401416667
+351,images/travel/7.png,58.5,#NAME?,news,a woman taking a picture of a narrow alley,how long has she worked at the news site?,because she's learning about recent news and is trying to capture the moment with capturing photos.,8.401416667
+352,images/travel/6.png,51,#NAME?,health,a bowl of noodles with vegetables,What would a healthy balanced meal include?,It may be suggesting which foods are healthiest to eat.,13.14006667
+353,images/travel/6.png,51,#NAME?,health,a bowl of noodles with vegetables,Are carbs really that bad?,It may be suggesting which foods are healthiest to eat.,13.14006667
+354,images/social_media/7.png,16.5,#NAME?,social_media,a man in a black shirt standing in front of,How do I know this person or do I know this person?,He may be an acquaintance of mine or of one of the people I know.,13.14006667
+355,images/social_media/7.png,16.5,#NAME?,social_media,a man in a black shirt standing in front of,Does this person know me?,He may be an acquaintance of mine or of one of the people I know.,13.14006667
+356,images/travel/2.png,86.75,#NAME?,travel,a scuba diver in the ocean,Where could I scuba dive if I wanted to?,I think the image probably suggests an activity that I could do If i travel to certain destinations. ,13.14006667
+357,images/travel/2.png,86.75,#NAME?,travel,a scuba diver in the ocean,"What would a vacation that involves scuba diving look like?
+",I think the image probably suggests an activity that I could do If i travel to certain destinations. ,13.14006667
+358,images/science_journals/6.png,9.666666667,#NAME?,science_journals,a group of men standing in front of a wall,Where do these men live or come from?,Maybe this image is depicting men from a certain group of people or culture. ,13.14006667
+359,images/science_journals/6.png,9.666666667,#NAME?,science_journals,a group of men standing in front of a wall,What is special about this group of men?,Maybe this image is depicting men from a certain group of people or culture. ,13.14006667
+360,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,Is there a special ceremony happening around this dance?,Maybe this site is showcasing what is happening in India at the moment. ,13.14006667
+361,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,It the article showcasing a particular culture?,Maybe this site is showcasing what is happening in India at the moment. ,13.14006667
+362,images/travel/5.png,56.5,#NAME?,shopping,a woman walking down a street with her suitcase,Is the picture selling luggage or clothing?,This particular website maybe showcasing luggage or travel attire. ,13.14006667
+363,images/travel/5.png,56.5,#NAME?,shopping,a woman walking down a street with her suitcase,Is the picture selling accessories?,This particular website maybe showcasing luggage or travel attire. ,13.14006667
+364,images/social_media/7.png,68.25,#NAME?,news,a man in a black shirt standing in front of,What is their location.,They are standing in front of a court house for a controversial matter,12.03313333
+365,images/social_media/7.png,68.25,#NAME?,news,a man in a black shirt standing in front of,What time of day is it?,They are standing in front of a court house for a controversial matter,12.03313333
+366,images/science_journals/7.png,3.5,#NAME?,science_journals,a street sign that says the olde street,What is their location.,They are in a historical location and have discovered something unique.,12.03313333
+367,images/science_journals/7.png,3.5,#NAME?,science_journals,a street sign that says the olde street,What day was the picture taken.,They are in a historical location and have discovered something unique.,12.03313333
+368,images/health/3.png,62.33333333,#NAME?,shopping,a woman in a pink sports bra top,What is the age of the women.,They are selling women's athletic apparel.,12.03313333
+369,images/health/3.png,62.33333333,#NAME?,shopping,a woman in a pink sports bra top,What size is the woman's clothes.,They are selling women's athletic apparel.,12.03313333
+370,images/science_journals/2.png,62.83333333,#NAME?,health,a man and woman in wetsuits,The age of the people.,They are exploring fun ways to stay active.,12.03313333
+371,images/science_journals/2.png,62.83333333,#NAME?,health,a man and woman in wetsuits,The location of the photo.,They are exploring fun ways to stay active.,12.03313333
+372,images/travel/6.png,49.6,#NAME?,travel,a bowl of noodles with vegetables,The name of the dish.,They are showing the local cuisine in a foreign country,12.03313333
+373,images/travel/6.png,49.6,#NAME?,travel,a bowl of noodles with vegetables,The name of the restaurant or person who prepared it. ,They are showing the local cuisine in a foreign country,12.03313333
+374,images/shopping/3.png,51.28571429,#NAME?,social_media,a man with a beard sitting on a rock near,The name of who is in the image.,It is a picture of a friend on a recent hike.,12.03313333
+375,images/shopping/3.png,51.28571429,#NAME?,social_media,a man with a beard sitting on a rock near,where the image was taken.,It is a picture of a friend on a recent hike.,12.03313333
+376,images/health/5.png,39,#NAME?,health,a woman kiteboarding in the ocean,What does kiteboarding have to do with health?,The woman is healthy enough to do active sports. ,9.833183333
+377,images/health/5.png,39,#NAME?,health,a woman kiteboarding in the ocean,Is the ocean involved in being healthy?,The woman is healthy enough to do active sports. ,9.833183333
+378,images/shopping/6.png,62.14285714,#NAME?,social_media,a snowboarder standing on a snow covered hill,Is the view from the hill nice?,The post is about a snowboarding area. ,9.833183333
+379,images/shopping/6.png,62.14285714,#NAME?,social_media,a snowboarder standing on a snow covered hill,Is the hill very high?,The post is about a snowboarding area. ,9.833183333
+380,images/science_journals/7.png,3.5,#NAME?,science_journals,a street sign that says the olde street,Is the sign old?,The area could be related to some scientific incident. ,9.833183333
+381,images/science_journals/7.png,3.5,#NAME?,science_journals,a street sign that says the olde street,Where is it hanging from?,The area could be related to some scientific incident. ,9.833183333
+382,images/news_journals/34.png,42,#NAME?,news,a woman standing on the beach,Is the woman by herself?,Something happened on the beach. ,9.833183333
+383,images/news_journals/34.png,42,#NAME?,news,a woman standing on the beach,Is it a picture from the past?,Something happened on the beach. ,9.833183333
+384,images/shopping/7.png,65.4,#NAME?,shopping,a man wearing a white t - shirt,What type of neck style is on the t-shirt,Someone filtered the results to include men's t-shirts (maybe color: white),9.93675
+385,images/shopping/7.png,65.4,#NAME?,shopping,a man wearing a white t - shirt,What is the fit of the t-shirt (how tight/loose)?,Someone filtered the results to include men's t-shirts (maybe color: white),9.93675
+386,images/travel/6.png,51,#NAME?,health,a bowl of noodles with vegetables,What are the ingredients of the soup?,It is an article either about nutrition or about healthy soup options.,9.93675
+387,images/travel/6.png,51,#NAME?,health,a bowl of noodles with vegetables,What are the nutritional facts about the soup?,It is an article either about nutrition or about healthy soup options.,9.93675
+388,images/science_journals/3.png,37.2,#NAME?,science_journals,a concert hall filled with plants,"Are there also instruments/musicians, singers, or speakers in the image?","The article is about how plants respond to music or about how plants positively impact humans, maybe in a similar way to music",9.93675
+389,images/science_journals/3.png,37.2,#NAME?,science_journals,a concert hall filled with plants,How large is the music hall and where are the plants in it?,"The article is about how plants respond to music or about how plants positively impact humans, maybe in a similar way to music",9.93675
+390,images/news_journals/11.png,68,#NAME?,news,two soccer players running after the ball,What team(s) are the players on?,It is a sports article about a recent soccer game.,9.93675
+391,images/news_journals/11.png,68,#NAME?,news,two soccer players running after the ball,Are the players on the same or opposing teams?,It is a sports article about a recent soccer game.,9.93675
+392,images/news_journals/15.png,82,#NAME?,travel,a woman performing an indian dance,What does the woman look like?,"the travel website page is featuring a specific location, perhaps the cultural events there.",9.93675
+393,images/news_journals/15.png,82,#NAME?,travel,a woman performing an indian dance,Is the woman in a professional dance troupe or is she simply dancing a traditional dance from her culture?,"the travel website page is featuring a specific location, perhaps the cultural events there.",9.93675
+394,images/shopping/3.png,51.28571429,#NAME?,social_media,a man with a beard sitting on a rock near,What's the man near?,Either someone wanted to share the picture of themselves or they're posting about someone they know or admire.,9.93675
+395,images/shopping/3.png,51.28571429,#NAME?,social_media,a man with a beard sitting on a rock near,Is the image of the social media account owner or someone else they've posted about?,Either someone wanted to share the picture of themselves or they're posting about someone they know or admire.,9.93675
+396,images/travel/2.png,86.75,#NAME?,travel,a scuba diver in the ocean,Are they a professional or a tourist,There is a scuba experience available,6.513966667
+397,images/travel/2.png,86.75,#NAME?,travel,a scuba diver in the ocean,How does the ocean look,There is a scuba experience available,6.513966667
+398,images/science_journals/3.png,37.2,#NAME?,science_journals,a concert hall filled with plants,Does this happen with all plants?,How plants are affected by music or some other study of plants.,10.38618333
+399,images/science_journals/3.png,37.2,#NAME?,science_journals,a concert hall filled with plants,Would another room affect the experiment or study?,How plants are affected by music or some other study of plants.,10.38618333
+400,images/social_media/5.png,62.125,#NAME?,news,the women's soccer team,Does this also happen to men?,A study of exercise and interaction.,10.38618333
+401,images/social_media/5.png,62.125,#NAME?,news,the women's soccer team,Why doesn't this have a photo of all kinds of people?,A study of exercise and interaction.,10.38618333
+402,images/health/5.png,39,#NAME?,health,a woman kiteboarding in the ocean,What other exercises are there?,Types of excercise for health.,10.38618333
+403,images/health/5.png,39,#NAME?,health,a woman kiteboarding in the ocean,What kind of injuries could occur?,Types of excercise for health.,10.38618333
+404,images/shopping/2.png,43,#NAME?,shopping,a man wearing a sweater,What fabric is the sweater?,Website sells sweaters or an experience in cooler weather.,10.38618333
+,,,,,,,,
+406,images/health/6.png,93,#NAME?,health,various foods that are in bowls,Is the food in bowls fruits and vegetables?,I think it would appear on a health site when it's discussing meal planning or healthy foods,11.79863333
+407,images/health/6.png,93,#NAME?,health,various foods that are in bowls,Does the image have to do with a recipe?,I think it would appear on a health site when it's discussing meal planning or healthy foods,11.79863333
+408,images/health/2.png,90.75,#NAME?,travel,a woman running on a mountain,Is there snow on the mountain?,This image would be on a travel site that is discussing a place that's good for hiking or running.,11.79863333
+409,images/health/2.png,90.75,#NAME?,travel,a woman running on a mountain,Are there waterfalls in the mountains?,This image would be on a travel site that is discussing a place that's good for hiking or running.,11.79863333
+410,images/social_media/5.png,54.125,#NAME?,social_media,the women's soccer team,Who is on the soccer team?,It is probably an image of a local soccer team where I have friends.,11.79863333
+411,images/social_media/5.png,54.125,#NAME?,social_media,the women's soccer team,Where is the soccer team from?,It is probably an image of a local soccer team where I have friends.,11.79863333
+412,images/news_journals/4.png,65.4,#NAME?,science_journals,a seal on the beach,What type of seal is this?,It is probably an article about aquatic wildlife.,11.79863333
+413,images/news_journals/4.png,65.4,#NAME?,science_journals,a seal on the beach,Is the seal in danger or endangered?,It is probably an article about aquatic wildlife.,11.79863333
+414,images/shopping/3.png,31,#NAME?,shopping,a man with a beard sitting on a rock near,What is the rock near?,The site is probably selling outdoor equipment or excursions.,11.79863333
+415,images/shopping/3.png,31,#NAME?,shopping,a man with a beard sitting on a rock near,Is the man relaxing or is he engaging in an activity?,The site is probably selling outdoor equipment or excursions.,11.79863333
+416,images/travel/7.png,58.5,#NAME?,news,a woman taking a picture of a narrow alley,What is in the alley?,There was probably an event that took place in an alley.,11.79863333
+417,images/travel/7.png,58.5,#NAME?,news,a woman taking a picture of a narrow alley,Are there people in the alley?,There was probably an event that took place in an alley.,11.79863333
+418,images/news_journals/4.png,32.6,#NAME?,news,a seal on the beach,Is this seal showing signs of increasing pollution issue on beaches?,"An image of a seal on the beach would be on a news website either to talk about pollution on beaches,and or seals might be becoming extinct.",13.89575
+419,images/news_journals/4.png,32.6,#NAME?,news,a seal on the beach,Are seals becoming extinct?,"An image of a seal on the beach would be on a news website either to talk about pollution on beaches,and or seals might be becoming extinct.",13.89575
+420,images/news_journals/15.png,82,#NAME?,travel,a woman performing an indian dance,Are tourists able to learn the dance as well or is it just a performance for tourists to see?,This image would be on a travel website to show the beauty of India and why people should come there.,13.89575
+421,images/news_journals/15.png,82,#NAME?,travel,a woman performing an indian dance,Is she a famous dancer tourists can see if they travel to India?,This image would be on a travel website to show the beauty of India and why people should come there.,13.89575
+422,images/social_media/7.png,80.5,#NAME?,science_journals,a man in a black shirt standing in front of,What is this man in everyday clothes supposed to represent for this science magazine website?,Maybe this man in a black shirt is a researcher doing a science presentation that's showcased in the magazine.,13.89575
+423,images/social_media/7.png,80.5,#NAME?,science_journals,a man in a black shirt standing in front of,What is the man standing infront of exactly?,Maybe this man in a black shirt is a researcher doing a science presentation that's showcased in the magazine.,13.89575
+424,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,Are consumers able to see and buy where this woman got her sportswear from?,This image would appear on a health website to show what appropriate attire to wear when working out.,13.89575
+425,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,What excercise is the woman doing that's specific to improving our health?,This image would appear on a health website to show what appropriate attire to wear when working out.,13.89575
+426,images/shopping/7.png,65.4,#NAME?,shopping,a man wearing a white t - shirt,How much is the shirt?,This image would show me that they're selling the white shirt this man is wearing.,13.89575
+427,images/shopping/7.png,65.4,#NAME?,shopping,a man wearing a white t - shirt,Are the other shirts the same price?,This image would show me that they're selling the white shirt this man is wearing.,13.89575
+428,images/social_media/5.png,54.125,#NAME?,social_media,the women's soccer team,Do these women have separate social media accounts? ,This image would be on a social media website to show who the members are on this soccer team. ,13.89575
+429,images/social_media/5.png,54.125,#NAME?,social_media,the women's soccer team,Are they a famous soccer team?,This image would be on a social media website to show who the members are on this soccer team. ,13.89575
+430,images/shopping/4.png,43.75,#NAME?,shopping,the pool at the holiday inn in san diego,"Is this a type of trip, and if so, what is it?",It would probably be an advertisement for a vacation package.,10.68378333
+431,images/shopping/4.png,43.75,#NAME?,shopping,the pool at the holiday inn in san diego,How much is the cost of this?,It would probably be an advertisement for a vacation package.,10.68378333
+432,images/science_journals/2.png,41.83333333,#NAME?,science_journals,a man and woman in wetsuits,Where are these people located?,Likely marine biologists or other scientists working,10.68378333
+433,images/science_journals/2.png,41.83333333,#NAME?,science_journals,a man and woman in wetsuits,Are these people holding anything or obviously doing anything?,Likely marine biologists or other scientists working,10.68378333
+434,images/social_media/1.png,68,#NAME?,social_media,a man with dreadlocks wearing a jacket and pants,Who is this person?,This is probably some kind of influencer or friend,10.68378333
+435,images/social_media/1.png,68,#NAME?,social_media,a man with dreadlocks wearing a jacket and pants,What is this person's relation to me?,This is probably some kind of influencer or friend,10.68378333
+436,images/shopping/6.png,78.14285714,#NAME?,travel,a snowboarder standing on a snow covered hill,Where is this located?,An example of an adventure someone can take during travel,10.68378333
+437,images/shopping/6.png,78.14285714,#NAME?,travel,a snowboarder standing on a snow covered hill,How much does it cost for me to get to this place or somewhere similar?,An example of an adventure someone can take during travel,10.68378333
+438,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,What kind of event is happening?,A cultural event going on recently,10.68378333
+439,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,What cultures are being discussed here?,A cultural event going on recently,10.68378333
+440,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,What is this person doing?,"Example of what ""health"" looks like",10.68378333
+441,images/health/3.png,95.33333333,#NAME?,health,a woman in a pink sports bra top,What is this person doing that furthers their health?,"Example of what ""health"" looks like",10.68378333
+442,images/travel/4.png,90,#NAME?,travel,a skier on a mountain,Where is this location?,It might be shown to demonstrate that you can ski at the location shown at the website,19.84366667
+443,images/travel/4.png,90,#NAME?,travel,a skier on a mountain,How much does it cost to ski there?,It might be shown to demonstrate that you can ski at the location shown at the website,19.84366667
+444,images/news_journals/34.png,42,#NAME?,news,a woman standing on the beach,What happened in the beach?,The picture might add context to an article in the website,19.84366667
+445,images/news_journals/34.png,42,#NAME?,news,a woman standing on the beach,Is this a inspirational story or a tragic story?,The picture might add context to an article in the website,19.84366667
+446,images/science_journals/2.png,62.83333333,#NAME?,health,a man and woman in wetsuits,What are the overall benefits to swimming?,It might be shown to accompany an article about how swimming is healthy,19.84366667
+447,images/science_journals/2.png,62.83333333,#NAME?,health,a man and woman in wetsuits,Are there any risks in swimming?,It might be shown to accompany an article about how swimming is healthy,19.84366667
+448,images/science_journals/6.png,9.666666667,#NAME?,science_journals,a group of men standing in front of a wall,Is this an article about men's mental health?,It might be a article about mental health among men,19.84366667
+449,images/science_journals/6.png,9.666666667,#NAME?,science_journals,a group of men standing in front of a wall,What is the story behind this photo?,It might be a article about mental health among men,19.84366667
+450,images/social_media/1.png,100,#NAME?,shopping,a man with dreadlocks wearing a jacket and pants,Are they trying to sell the jacket or pants?,They are trying to sell the clothing that the man is wearing ,19.84366667
+451,images/social_media/1.png,100,#NAME?,shopping,a man with dreadlocks wearing a jacket and pants,What kinds of clothes are you selling?,They are trying to sell the clothing that the man is wearing ,19.84366667
+452,images/shopping/7.png,59.2,#NAME?,social_media,a man wearing a white t - shirt,What is special about the t-shirt?,They are trying to sell the t-shirt ,19.84366667
+453,images/shopping/7.png,59.2,#NAME?,social_media,a man wearing a white t - shirt,In what platform are they selling it?,They are trying to sell the t-shirt ,19.84366667
+454,images/shopping/6.png,78.14285714,#NAME?,travel,a snowboarder standing on a snow covered hill,Where specifically is the hill the snowboarder is on?,To show users an activity at the location.,19.2249
+455,images/shopping/6.png,78.14285714,#NAME?,travel,a snowboarder standing on a snow covered hill,How can I get the gear and equipment needed and travel there?,To show users an activity at the location.,19.2249
+456,images/health/6.png,93,#NAME?,health,various foods that are in bowls,What ingredients are in the food bowls?,To show users healthy food options.,19.2249
+457,images/health/6.png,93,#NAME?,health,various foods that are in bowls,How do I make or prepare the foods shown?,To show users healthy food options.,19.2249
+458,images/social_media/7.png,68.25,#NAME?,news,a man in a black shirt standing in front of,What is the man standing in front of?,I don't know what he is standing in front of.,19.2249
+459,images/social_media/7.png,68.25,#NAME?,news,a man in a black shirt standing in front of,Is his black shirt relevant to the context of the picture?,I don't know what he is standing in front of.,19.2249
+460,images/shopping/5.png,30.33333333,#NAME?,shopping,a group of vases,How much do the vases cost?,To show a product users may want to purchase.,19.2249
+461,images/shopping/5.png,30.33333333,#NAME?,shopping,a group of vases,What are the materials they're made from?,To show a product users may want to purchase.,19.2249
+462,images/shopping/3.png,51.28571429,#NAME?,social_media,a man with a beard sitting on a rock near,Who is the man with a beard?,To show someone the user may want to connect with.,19.2249
+463,images/shopping/3.png,51.28571429,#NAME?,social_media,a man with a beard sitting on a rock near,Where is he sitting near?,To show someone the user may want to connect with.,19.2249
+464,images/science_journals/1.png,48.5,#NAME?,science_journals,a building that has been destroyed,Why was the building destroyed?,To show users a building related to a story.,19.2249
+465,images/science_journals/1.png,48.5,#NAME?,science_journals,a building that has been destroyed,What is the significance of the building being destroyed?,To show users a building related to a story.,19.2249
+466,images/health/1.png,87.75,#NAME?,health,a doctor and an elderly woman,How important is a good diet?,It shows that essential part to go health is visits with a doctor,24.23778333
+467,images/health/1.png,87.75,#NAME?,health,a doctor and an elderly woman,How often should I exercise?,It shows that essential part to go health is visits with a doctor,24.23778333
+468,images/social_media/5.png,62.125,#NAME?,news,the women's soccer team,Who are the members of the team?,The women's soccer team is likely competing in a tournament ,24.23778333
+469,images/social_media/5.png,62.125,#NAME?,news,the women's soccer team,How often does the soccer team play?,The women's soccer team is likely competing in a tournament ,24.23778333
+470,images/science_journals/1.png,48.5,#NAME?,science_journals,a building that has been destroyed,Where is the location of the building?,I think the build may be one from the long past?,24.23778333
+471,images/science_journals/1.png,48.5,#NAME?,science_journals,a building that has been destroyed,When was it built?,I think the build may be one from the long past?,24.23778333
+472,images/shopping/2.png,43,#NAME?,shopping,a man wearing a sweater,How much does it cost?,To show off this specific product.,24.23778333
+473,images/shopping/2.png,43,#NAME?,shopping,a man wearing a sweater,What size does it come in?,To show off this specific product.,24.23778333
+474,images/shopping/3.png,51.28571429,#NAME?,social_media,a man with a beard sitting on a rock near,Where was the man at?,It's an image someone posted on themselves to share with their followers.,24.23778333
+475,images/shopping/3.png,51.28571429,#NAME?,social_media,a man with a beard sitting on a rock near,How old is he?,It's an image someone posted on themselves to share with their followers.,24.23778333
+476,images/travel/4.png,90,#NAME?,travel,a skier on a mountain,How high is the mountain?,To entice people to have this type of experience,24.23778333
+477,images/travel/4.png,90,#NAME?,travel,a skier on a mountain,What location was the image taken?,To entice people to have this type of experience,24.23778333
+478,images/news_journals/8.png,84.5,#NAME?,news,a man giving a speech,"What is the speech about?
+",because it might be a politician,18.44221667
+479,images/news_journals/8.png,84.5,#NAME?,news,a man giving a speech,Is the person a Democrat or Republican?,because it might be a politician,18.44221667
+480,images/travel/5.png,56.5,#NAME?,shopping,a woman walking down a street with her suitcase,What type of suitcase is it?,The Shopping website offers suitcases,18.44221667
+481,images/travel/5.png,56.5,#NAME?,shopping,a woman walking down a street with her suitcase,What is in the suitcase?,The Shopping website offers suitcases,18.44221667
+482,images/travel/2.png,86.75,#NAME?,travel,a scuba diver in the ocean,What is the location of the scuba diver?,Scuba diving is offered for this vacation,18.44221667
+483,images/travel/2.png,86.75,#NAME?,travel,a scuba diver in the ocean,What is the cost to scuba dive?,Scuba diving is offered for this vacation,18.44221667
+484,images/health/2.png,60,#NAME?,science_journals,a woman running on a mountain,"What is the physiological benefit of running on a mountain?
+
+
+",to show the physical benefits of excersise,18.44221667
+485,images/health/2.png,60,#NAME?,science_journals,a woman running on a mountain,"
+What can other athletes learn from this individual's running technique?",to show the physical benefits of excersise,18.44221667
+486,images/travel/4.png,59,#NAME?,health,a skier on a mountain,................What safety precautions should I take when skiing?,To show the importance of physical activity,18.44221667
+487,images/travel/4.png,59,#NAME?,health,a skier on a mountain,"What are the best ways to prevent injuries while skiing?
+........",To show the importance of physical activity,18.44221667
+488,images/travel/6.png,57,#NAME?,social_media,a bowl of noodles with vegetables,what kind of noodles and vegetable are offered?,An influencer is promoting a product,18.44221667
+489,images/travel/6.png,57,#NAME?,social_media,a bowl of noodles with vegetables,Does the product have good ratings?,An influencer is promoting a product,18.44221667
+490,images/news_journals/25.png,36.25,#NAME?,news,a group of people sitting at a table,Is this a get together ?,Maybe people at a restaurant waiting for food or having conversation while waiting for food to be solved.,21.9752
+491,images/news_journals/25.png,36.25,#NAME?,news,a group of people sitting at a table,Is the food so great that people want to wait no matter the wait time?,Maybe people at a restaurant waiting for food or having conversation while waiting for food to be solved.,21.9752
+492,images/health/2.png,82,#NAME?,health,a woman running on a mountain,Is it safe to run that long when one is older?,Trying to stay healthy by exercising while also having fun,21.9752
+493,images/health/2.png,82,#NAME?,health,a woman running on a mountain,what is a healthy food for a consistent runner?,Trying to stay healthy by exercising while also having fun,21.9752
+494,images/travel/5.png,53.16666667,#NAME?,social_media,a woman walking down a street with her suitcase,Are they advertising a suitcase?,"A woman on holiday, advertising suitcase or just moved into a neighborhood",21.9752
+495,images/travel/5.png,53.16666667,#NAME?,social_media,a woman walking down a street with her suitcase,Is the woman a model?,"A woman on holiday, advertising suitcase or just moved into a neighborhood",21.9752
+496,images/shopping/5.png,30.33333333,#NAME?,shopping,a group of vases,what is the shopping website known for?,"To attract customers to the websites, to increase sales",21.9752
+497,images/shopping/5.png,30.33333333,#NAME?,shopping,a group of vases,what payment options are available and is payment safe  reliable,"To attract customers to the websites, to increase sales",21.9752
+498,images/travel/6.png,49.6,#NAME?,travel,a bowl of noodles with vegetables,how competitive is their price?,"Rates, flexibility of assessing travel options",21.9752
+499,images/travel/6.png,49.6,#NAME?,travel,a bowl of noodles with vegetables,is their website user friendly?,"Rates, flexibility of assessing travel options",21.9752
+500,images/science_journals/7.png,3.5,#NAME?,science_journals,a street sign that says the olde street,How informative and reliable?," periodical publication intended to further progress of science, usually by sharing findings from research .with readers.",21.9752
+501,images/science_journals/7.png,3.5,#NAME?,science_journals,a street sign that says the olde street,does magazine draw traffic," periodical publication intended to further progress of science, usually by sharing findings from research .with readers.",21.9752
+502,images/shopping/6.png,62.14285714,#NAME?,social_media,a snowboarder standing on a snow covered hill,Why is the man alone instead of with others?,"They want to convey a sense of relief, and peace so one's brain can focus on connecting.",39.93841667
+503,images/shopping/6.png,62.14285714,#NAME?,social_media,a snowboarder standing on a snow covered hill,What is the significance of the snow?,"They want to convey a sense of relief, and peace so one's brain can focus on connecting.",39.93841667
+504,images/travel/7.png,58.5,#NAME?,news,a woman taking a picture of a narrow alley,Does this photo best convey the title of the news headline? ,Street photography and journalism is very popular especially in NY. ,39.93841667
+505,images/travel/7.png,58.5,#NAME?,news,a woman taking a picture of a narrow alley,Is the photography capturing the recent developments talked about in the headline?,Street photography and journalism is very popular especially in NY. ,39.93841667
+506,images/health/2.png,82,#NAME?,health,a woman running on a mountain,Why is the running on a mountain? ,Running is a great form of exercise that contributes to good health. ,39.93841667
+507,images/health/2.png,82,#NAME?,health,a woman running on a mountain,Is running the best way to depict health? ,Running is a great form of exercise that contributes to good health. ,39.93841667
+508,images/science_journals/5.png,87.5,#NAME?,travel,people fishing in the river,Is fishing the best way to represent travel? ,"Fishing isn't readily available to people across the world, so it naturally has a sense of travel since most have to leave to do it. ",39.93841667
+509,images/science_journals/5.png,87.5,#NAME?,travel,people fishing in the river,Is there anyone against swimming? ,"Fishing isn't readily available to people across the world, so it naturally has a sense of travel since most have to leave to do it. ",39.93841667
+510,images/shopping/4.png,43.75,#NAME?,shopping,the pool at the holiday inn in san diego,How happy are the people in the pool? ,"People relaxing in a pool is conveys relaxation, which is an experience most people crave. ",39.93841667
+511,images/shopping/4.png,43.75,#NAME?,shopping,the pool at the holiday inn in san diego,Do pools make me want to purchase things? ,"People relaxing in a pool is conveys relaxation, which is an experience most people crave. ",39.93841667
+512,images/science_journals/1.png,48.5,#NAME?,science_journals,a building that has been destroyed,Why did they go with a destroyed building to show change?,"A destroyed building shows change, and something recent; so it works.",39.93841667
+513,images/science_journals/1.png,48.5,#NAME?,science_journals,a building that has been destroyed,Is a destroyed building too negative for what they want to convey?,"A destroyed building shows change, and something recent; so it works.",39.93841667
+514,images/science_journals/2.png,59.33333333,#NAME?,social_media,a man and woman in wetsuits,What is the brand that the image represents?,For people who enjoy swimming or diving.,7.152916667
+515,images/science_journals/2.png,59.33333333,#NAME?,social_media,a man and woman in wetsuits,Are the wetsuits expensive?,For people who enjoy swimming or diving.,7.152916667
+516,images/shopping/6.png,78.14285714,#NAME?,travel,a snowboarder standing on a snow covered hill,Where is the image taken from?,It is probably showcasing a place where people can go snowboarding.,7.152916667
+517,images/shopping/6.png,78.14285714,#NAME?,travel,a snowboarder standing on a snow covered hill,Does it snow all year round in this location?,It is probably showcasing a place where people can go snowboarding.,7.152916667
+518,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,Where is this performance held?,It is probably showcasing the art of Indian dancing.,7.152916667
+519,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,How to learn the art of Indian dancing?,It is probably showcasing the art of Indian dancing.,7.152916667
+520,images/science_journals/4.png,57.33333333,#NAME?,science_journals,a boat with a crab in it,What is this image about and what does it have to do with this science magazine?,It may be for an article about Earth science.,7.152916667
+521,images/science_journals/4.png,57.33333333,#NAME?,science_journals,a boat with a crab in it,Is this about Earth science?,It may be for an article about Earth science.,7.152916667
+522,images/travel/4.png,59,#NAME?,health,a skier on a mountain,What are the benefits of skiing?,Physical activity is great for your health.,7.152916667
+523,images/travel/4.png,59,#NAME?,health,a skier on a mountain,Is it hard to learn how to ski?,Physical activity is great for your health.,7.152916667
+524,images/shopping/7.png,65.4,#NAME?,shopping,a man wearing a white t - shirt,What brand is the t-shirt?,They are selling the t-shirt on the website.,7.152916667
+525,images/shopping/7.png,65.4,#NAME?,shopping,a man wearing a white t - shirt,How much is the t-shirt?,They are selling the t-shirt on the website.,7.152916667
+526,images/travel/6.png,57,#NAME?,social_media,a bowl of noodles with vegetables,Who is sharing?,Someone is sharing pictures of t heir food,14.83393333
+527,images/travel/6.png,57,#NAME?,social_media,a bowl of noodles with vegetables,What type of ramen is it?,Someone is sharing pictures of t heir food,14.83393333
+528,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,What is the headline?,Article on a different cultural phenomenon,14.83393333
+529,images/news_journals/15.png,32,#NAME?,news,a woman performing an indian dance,What is the context of the dance?,Article on a different cultural phenomenon,14.83393333
+530,images/health/7.png,74.75,#NAME?,health,two women in blue sports bras and leggings,What is the context?,The website is showing people exercising,14.83393333
+531,images/health/7.png,74.75,#NAME?,health,two women in blue sports bras and leggings,Is the article about fitness or apparel?,The website is showing people exercising,14.83393333
+532,images/social_media/1.png,100,#NAME?,shopping,a man with dreadlocks wearing a jacket and pants,What do the clothes look like?,The man is probably a model wearing the clothes,14.83393333
+533,images/social_media/1.png,100,#NAME?,shopping,a man with dreadlocks wearing a jacket and pants,Is this part of a product listing?,The man is probably a model wearing the clothes,14.83393333
+534,images/science_journals/5.png,61.33333333,#NAME?,science_journals,people fishing in the river,Does the article refer to depletion of fish?,The article could be about fish stocks or the environment,14.83393333
+535,images/science_journals/5.png,61.33333333,#NAME?,science_journals,people fishing in the river,Is there a connection between recreational fishing and environmental decay?,The article could be about fish stocks or the environment,14.83393333
+536,images/science_journals/4.png,59,#NAME?,travel,a boat with a crab in it,Where is the boat?,The picture is probably part of a feature on a travel destination,14.83393333
+537,images/science_journals/4.png,59,#NAME?,travel,a boat with a crab in it,What activity is taking place?,The picture is probably part of a feature on a travel destination,14.83393333
