@@ -14,8 +14,6 @@ planations that incorporate the context in which an image appears, yet current V
 
 ## Examples
 
-Here we provide some more qualitative examples.
-
 ## Citation
 
 If you use the Context-VQA dataset, you can cite our work as follows.
