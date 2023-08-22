@@ -1,10 +1,12 @@
-## Dataset Format
+## Instructions for Downloading the Context-VQA Dataset
 
-The data is stored in this format:
+The images in the dataset are stored in the images.zip file. To download the questions and annotations, please download the dataset.json file.
+
+The data is stored in this format. Here's an example:
 ```
     "images": [
         {
-            "filename": "images/35.jpg",
+            "image_id": [IMAGE_ID],
             "question": "What's the weather like?",
             "context": "social_media",
             "annotations": [
@@ -16,3 +18,5 @@ The data is stored in this format:
             ]
         }]
 ```
+
+If you have any issues with downloading or using this dataset, please feel free to contact nanditan@cs.stanford.edu.
