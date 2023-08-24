@@ -13,7 +13,7 @@ Visual question answering (VQA) has the potential to make the Internet more acce
 
 ## Examples
 
-The Context-VQA dataset features six contexts: Travel, Shopping, Health, Social Media, News, and Science Magazines. Prior research has shown that the context in which the image appears affects the kinds of questions asked, as well as the details required to be provided in the model's answer. For further information on this work, please refer to Stangl et al (2021)[https://dl.acm.org/doi/fullHtml/10.1145/3441852.3471233] and Stangl et al (2020)[https://dl.acm.org/doi/10.1145/3313831.3376404]. We present a few examples of how this might apply to the VQA domain below. Although it is not always straightforward to infer a person's information goal through only the domain, we provide the domain as a starting point to clue the model in. Through this type of research, we hope to encourage more intentionality and purpose to VQA models.
+The Context-VQA dataset features six contexts: Travel, Shopping, Health, Social Media, News, and Science Magazines. Prior research has shown that the context in which the image appears affects the kinds of questions asked, as well as the details required to be provided in the model's answer. For further information on this work, please refer to [Stangl et al (2021)](https://dl.acm.org/doi/fullHtml/10.1145/3441852.3471233) and [Stangl et al (2020)](https://dl.acm.org/doi/10.1145/3313831.3376404). We present some examples of how this might apply to the VQA domain below.
 
 ### Example 1
 ![The GIF shows an image of a scuba diver near a coral reef, and the GIF alternates between the image itself and text reading: "Image Description: " Underneath the image, there's text reading: "What else would you want to know?"](img/example_2.gif)
@@ -22,7 +22,7 @@ This image shows a scuba diver near a coral reef. The description in the GIF was
 
 #### Case 1: Travel
 
-Imagine you are browsing a **travel website**, with the goal of traveling to a new location, when you encounter this image description. What else would you need to know about this image?
+Imagine you are browsing a **travel website**, with the goal of traveling to a new location, when you encounter this image. In this case, imagine that you cannot see the image directly, and that you only have access to the image description. What else would you need to know about this image?
 
 Here are some example QA pairs, pulled from Context-VQA, that are more relevant in the Travel context:
 
