@@ -24,37 +24,9 @@ This image shows a scuba diver near a coral reef. The description in the GIF was
 
 Imagine you are browsing a **travel website**, with the goal of traveling to a new location, when you encounter this image. In this case, imagine that you cannot see the image directly, and that you only have access to the image description. What else would you need to know about this image?
 
-Here are some example QA pairs, pulled from Context-VQA, that are more relevant in the Travel context:
-
-Q: Where is this person diving?
-
-A: Although not clear from the picture, it appears they are diving near a tropical reef.
-
-Q: What is the person wearing?
-
-A: The person is wearing scuba gear and scuba equipment, as well as clear goggles.
-
-Q: Is this person traveling in a tour group, or alone?
-
-A: In this picture, they appear to be alone.
-
 #### Case 2: Science Magazines
 
 Imagine you are browsing a **science magazine**, with the goal of learning more about recent scientific developments, when you encounter this image description. Again, assume that the only information you have is the image description. What else would you need to know about this image, and how might those information needs change?
-
-Here are some potential QA pairs that are more relevant in the Science Magazine context:
-
-Q: Is the scuba diver interacting with the coral in any way?
-
-A: The scuba diver is merely swimming around the coral, and doesn't appear to be interacting with the coral directly.
-
-Q: What animals are surrounding the diver?
-
-A: Sea anemones, coral, small orange fish, and silver fish.
-
-Q: What is the color of the coral--does it look healthy or bleached?
-
-A: The coral reef, at least from the color, appears to be colored brightly and seems to be doing well.
 
 ## Citation
 
