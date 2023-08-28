@@ -36,8 +36,8 @@ Question: Is there any fish or animals in the photograph?
 
 Answer: Yes. There are small fish with orange-golden scales floating between the diver and the coral.
 
-### Example 1
-![The GIF shows an image of a hotel, and the GIF alternates between the image itself and text reading: "Image Description: a hotel in the holiday inn at san diego." Underneath the image, there's text reading: "What else would you want to know?"](img/example_2.gif)
+### Example 2
+![The GIF shows an image of a hotel, and the GIF alternates between the image itself and text reading: "Image Description: a hotel in the holiday inn at san diego." Underneath the image, there's text reading: "What else would you want to know?"](img/example_3.gif)
 
 #### Case 1: Social Media
 
