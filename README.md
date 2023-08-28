@@ -25,6 +25,7 @@ This image shows a scuba diver near a coral reef. The description in the GIF was
 Imagine you are browsing a **travel website**, with the goal of traveling to a new location, when you encounter this image. In this case, imagine that you cannot see the image directly, and that you only have access to the image description. What else would you need to know about this image?
 
 Question: Where is the scuba diver
+
 Answer: Underwater near some small fish, corals, and other sea life.
 
 #### Case 2: Science Magazines
@@ -32,6 +33,7 @@ Answer: Underwater near some small fish, corals, and other sea life.
 Imagine you are browsing a **science magazine**, with the goal of learning more about recent scientific developments, when you encounter this image description. Again, assume that the only information you have is the image description. What else would you need to know about this image, and how might those information needs change?
 
 Question: Is there any fish or animals in the photograph?
+
 Answer: Yes. There are small fish with orange-golden scales floating between the diver and the coral.
 
 ## Citation
