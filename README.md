@@ -63,7 +63,7 @@ If you use the Context-VQA dataset, you can cite our work as follows.
 @inproceedings{Naik-etal:2023,
     author = {Naik, Nandita and Potts, Christopher and Kreiss, Elisa},
     url={https://arxiv.org/abs/2307.15745},
-    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops}
+    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
     year = {2023},
     title = {{Context-VQA}: Towards Context-Aware and Purposeful {Visual} {Question} {Answering}}}
 ```
