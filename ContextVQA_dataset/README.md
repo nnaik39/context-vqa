@@ -1,6 +1,6 @@
 ## Instructions for Downloading Context-VQA
 
-The images in the dataset are stored in the images.zip file. To download the questions and annotations, please download the dataset.json file.
+The images in the dataset are stored in the ```images.zip``` file. To download the questions and annotations, please download the ```dataset.json``` file.
 
 The data is stored in this format. Here's an example:
 ```
@@ -18,5 +18,7 @@ The data is stored in this format. Here's an example:
             ]
         }]
 ```
+
+In this folder, we've also included all of the questions collected during both versions of the study (which don't all appear in the dataset). You can access both the questions collected in the description-only and image-visible study in the folder (all_questions_collected/)[https://github.com/nnaik39/context-vqa/tree/master/ContextVQA_dataset/all_questions_collected].
 
 If you have any issues with downloading or using this dataset, please feel free to contact nanditan@cs.stanford.edu.
