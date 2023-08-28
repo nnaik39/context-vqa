@@ -30,7 +30,7 @@ Answer: Underwater near some small fish, corals, and other sea life.
 
 #### Case 2: Science Magazines
 
-Imagine you are browsing a **science magazine**, with the goal of learning more about recent scientific developments, when you encounter this image description. Again, assume that the only information you have is the image description. What else would you need to know about this image, and how might those information needs change?
+Imagine you are browsing a **science magazine**, with the goal of learning more about recent scientific developments, when you encounter this image description. In this case, imagine that you cannot see the image directly, and that you only have access to the image description. What else would you need to know about this image?
 
 Question: Is there any fish or animals in the photograph?
 
